@@ -20,16 +20,13 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Visiting Researcher"
   company = "Netherlands Interdisciplinary Demographic Institute (NIDI)"
-  company_url = ""
+  company_url = "https://nidi.nl/en?set_language=en"
   location = "The Hague"
   date_start = "2020-01-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  Invited by Prof. Marcel Lubbers
   
-  * Analysing
-  * Modelling
-  * Deploying
   """
 
 [[experience]]
