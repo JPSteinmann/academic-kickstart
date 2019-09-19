@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Goettingen"
   date_start = "2014-10-01"
-  date_end = "2019-09-30"
+  date_end = ""
   description = ""
 
 +++
