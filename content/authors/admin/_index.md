@@ -29,10 +29,10 @@ interests:
 education:
   courses:
   - course: Master of Arts (M.A.) in Sociology
-    institution: University of Goettingen Supervisors: Prof. Silke Hans
+    institution: University of Goettingen
     year: 2014
   - course: Bachelor of Arts (B.A.) in Sociology
-    institution: University 
+    institution: University of Goettingen 
     year: 2011
 
 # Social/Academic Networking
