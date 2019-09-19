@@ -21,7 +21,7 @@ date_format = "Jan 2006"
   title = "Visiting Researcher"
   company = "Netherlands Interdisciplinary Demographic Institute (NIDI)"
   company_url = "https://nidi.nl/en?set_language=en"
-  location = "The Hague"
+  location = "The Hague, The Netherlands
   date_start = "2020-01-01"
   date_end = ""
   description = """
@@ -30,12 +30,12 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Research Assistant"
+  company = "University of Goettingen"
+  company_url = "http://www.uni-goettingen.de/"
+  location = "Goettingen, Germany"
+  date_start = "2014-10-01"
+  date_end = ""
+  description = """"""
 
 +++
