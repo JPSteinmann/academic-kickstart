@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   location = "Utrecht, The Netherlands"
   date_start = "2013-09-01"
   date_end = "2014-01-30"
-  description = ""
+  description = "Research Master’s Programme “Migration, Ethnic Relations and Multiculturalism”"
 
 [[experience]]
   title = "Student Assistant"
