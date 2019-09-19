@@ -26,6 +26,12 @@ interests:
 - Social Networks
 - Methods of Social Research
 
+interests:
+- Migration and Integration
+- Ethnic Boundary-making
+- Social Networks
+- Methods of Social Research
+
 education:
   courses:
   - course: Master of Arts (M.A.) in Sociology
