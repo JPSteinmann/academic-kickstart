@@ -18,7 +18,7 @@ organizations:
   url: "http://www.uni-goettingen.de/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include migration and integration, ethnic boundary-making, social networks and methods of social research.
 
 interests:
 - Migration and Integration
@@ -28,9 +28,9 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  - course: Master of Arts (M.A.)
+    “Sociology” at the Faculty of Social Sciences, University of Goettingen (Supervisors: Prof. Silke Hans and Prof. Claudia Diehl)
+    year: 2014
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
