@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "The Hague, The Netherlands"
   date_start = "2020-01-01"
   date_end = ""
-  description = """
+  description = ""
   Invited by Prof. Marcel Lubbers
   
   """
@@ -36,6 +36,6 @@ date_format = "Jan 2006"
   location = "Goettingen, Germany"
   date_start = "2014-10-01"
   date_end = ""
-  description = """
+  description = ""
 
 +++
