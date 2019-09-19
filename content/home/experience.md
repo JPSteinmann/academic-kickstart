@@ -26,4 +26,13 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Invited by Prof. Marcel Lubbers"
 
+[[experience]]
+  title = "Research Assistant"
+  company = "University of Goettingen"
+  company_url = ""
+  location = "Goettingen"
+  date_start = "2014-10-01"
+  date_end = ""
+  description = "t"
+
 +++
