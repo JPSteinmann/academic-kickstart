@@ -90,11 +90,11 @@ phone = "+49 (0)551 39 10926"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Platz der Göttinger Sieben 3", city = "Goettingen", region = "", postcode = "37073", country = "Germany", country_code = ""}
+address = {street = "Institute for Sociology, Platz der Göttinger Sieben 3", city = "Goettingen", region = "", postcode = "37073", country = "Germany", country_code = ""}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "51.541321", longitude = "9.935272"}
+coordinates = {latitude = "51.541051", longitude = "9.934784"}
 
 # Directions for visitors to locate you.
 directions = ""
