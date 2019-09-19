@@ -32,7 +32,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Research Assistant"
   company = "University of Goettingen"
-  company_url = "http://www.uni-goettingen.de/"
+  company_url = ""
   location = "Goettingen"
   date_start = "2014-10-01"
   date_end = "2014-09-30"
