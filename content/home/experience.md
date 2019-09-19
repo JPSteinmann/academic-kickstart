@@ -28,15 +28,5 @@ date_format = "Jan 2006"
 
 """
 
-[[experience]]
-  title = "Research Assistant"
-  company = "University of Goettingen"
-  company_url = "https://nidi.nl/en?set_language=en"
-  location = "Goettingen"
-  date_start = "2014-10-01"
-  date_end = "2016-10-01"
-  description = "Invited by Prof. Marcel Lubbers"
-
-"""
 
 +++
