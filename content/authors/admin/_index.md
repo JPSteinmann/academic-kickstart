@@ -65,4 +65,4 @@ user_groups:
 - Visitors
 ---
 
-I am currently research assistant at the Institute of Sociology University of Goettingen
+I am currently research assistant at the Institute of Sociology ath the University of Goettingen.
