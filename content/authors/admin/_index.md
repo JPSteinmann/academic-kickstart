@@ -31,12 +31,9 @@ education:
   - course: Master of Arts (M.A.) in Sociology
     institution: University of Goettingen (Supervisors: Prof. Silke Hans and Prof. Claudia Diehl)
     year: 2014
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Bachelor of Arts (B.A.) in Sociology
+    institution: University of Goettingen (Supervisors: Prof. Claudia Diehl and Prof. Karin Kurz)
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
