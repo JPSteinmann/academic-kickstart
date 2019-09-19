@@ -23,7 +23,7 @@ bio: My research interests include migration and integration, ethnic boundary-ma
 interests:
 - Migration and Integration
 - Ethnic Boundary-making
-- Recent immigrants
+- Recent Immigrants
 - Social Networks
 - Methods of Social Research
 
