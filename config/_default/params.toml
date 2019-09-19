@@ -85,7 +85,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "jan-philip.steinmann@sowi.uni-goettingen.de"
+email = "mailto:jan-philip.steinmann@sowi.uni-goettingen.de"
 phone = "+49 (0)551 39 10926"
 
 # Address
