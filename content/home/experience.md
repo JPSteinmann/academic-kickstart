@@ -25,5 +25,16 @@ date_format = "Jan 2006"
   date_start = "2020-01-01"
   date_end = ""
   description = "Invited by Prof. Marcel Lubbers"
+  
+  """
+
+[[experience]]
+  title = "Research Assistant"
+  company = "University of Goettingen"
+  company_url = ""
+  location = "Goettingen"
+  date_start = "2014-10-01"
+  date_end = "2019-09-30"
+  description = ""
 
 +++
