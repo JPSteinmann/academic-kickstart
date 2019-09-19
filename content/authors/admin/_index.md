@@ -29,10 +29,10 @@ interests:
 education:
   courses:
   - course: Master of Arts (M.A.) in Sociology
-    institution: University of Goettingen (Supervisors: Prof. Silke Hans and Prof. Claudia Diehl)
+    institution: University of Goettingen 
     year: 2014
   - course: Bachelor of Arts (B.A.) in Sociology
-    institution: University of Goettingen (Supervisors: Prof. Claudia Diehl and Prof. Karin Kurz)
+    institution: University 
     year: 2011
 
 # Social/Academic Networking
