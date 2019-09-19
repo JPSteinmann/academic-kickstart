@@ -34,5 +34,14 @@ date_format = "Jan 2006"
   date_start = "2014-10-01"
   date_end = "2019-09-30"
   description = "Prof. Silke Hans"
+  
+[[experience]]
+  title = "Student Assistant"
+  company = "University of Goettingen"
+  company_url = "http://www.uni-goettingen.de/"
+  location = "Goettingen, Germany"
+  date_start = "2010-02-01"
+  date_end = "2014-09-30"
+  description = "Prof. Silke Hans, Prof. Karin Kurz, Prof. Claudia Diehl"
 
 +++
