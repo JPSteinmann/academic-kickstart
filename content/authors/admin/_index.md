@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Institute of Sociology
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
 - name: University of Goettingen
-  url: ""
+  url: "http://www.uni-goettingen.de/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
