@@ -26,12 +26,6 @@ interests:
 - Social Networks
 - Methods of Social Research
 
-interests:
-- Migration and Integration
-- Ethnic Boundary-making
-- Social Networks
-- Methods of Social Research
-
 education:
   courses:
   - course: Master of Arts (M.A.) in Sociology
@@ -51,7 +45,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:jan-philip.steinmann@sowi.uni-goettingen.de".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.de/
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Jan_Philip_Steinmann
