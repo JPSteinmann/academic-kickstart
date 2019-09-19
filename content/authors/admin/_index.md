@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:jan-philip.steinmann@sowi.uni-goettingen.de".
+  link: "mailto:jan-philip.steinmann@sowi.uni-goettingen.de"
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.de/
