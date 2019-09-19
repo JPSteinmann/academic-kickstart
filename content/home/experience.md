@@ -36,6 +36,15 @@ date_format = "Jan 2006"
   description = "Collaborating with Prof. Silke Hans"
   
 [[experience]]
+  title = "Visiting Student"
+  company = "Utrecht University"
+  company_url = "https://www.uu.nl/en"
+  location = "Utrecht, The Netherlands"
+  date_start = "2013-09-01"
+  date_end = "2014-01-30"
+  description = ""
+
+[[experience]]
   title = "Student Assistant"
   company = "University of Goettingen"
   company_url = "http://www.uni-goettingen.de/"
