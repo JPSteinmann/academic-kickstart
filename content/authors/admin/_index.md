@@ -29,7 +29,7 @@ interests:
 education:
   courses:
   - course: Master of Arts (M.A.)
-    “Sociology” at the Faculty of Social Sciences, University of Goettingen (Supervisors: Prof. Silke Hans and Prof. Claudia Diehl)
+    Sociology at the Faculty of Social Sciences, University of Goettingen (Supervisors: Prof. Silke Hans and Prof. Claudia Diehl)
     year: 2014
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
