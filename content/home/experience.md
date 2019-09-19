@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "The Hague, The Netherlands"
   date_start = "2020-01-01"
   date_end = ""
-  description = "Invited by Prof. Marcel Lubbers"
+  description = "Collaborating with Prof. Marcel Lubbers"
 
 [[experience]]
   title = "Research Assistant"
@@ -32,8 +32,8 @@ date_format = "Jan 2006"
   company_url = "http://www.uni-goettingen.de/"
   location = "Goettingen, Germany"
   date_start = "2014-10-01"
-  date_end = "2019-09-30"
-  description = "Prof. Silke Hans"
+  date_end = ""
+  description = "Collaborating with Prof. Silke Hans"
   
 [[experience]]
   title = "Student Assistant"
@@ -42,6 +42,6 @@ date_format = "Jan 2006"
   location = "Goettingen, Germany"
   date_start = "2010-02-01"
   date_end = "2014-09-30"
-  description = "Prof. Silke Hans, Prof. Karin Kurz, Prof. Claudia Diehl"
+  description = "Collaborating with Prof. Silke Hans, Prof. Karin Kurz, and Prof. Claudia Diehl"
 
 +++
