@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   company_url = "http://www.uni-goettingen.de/"
   location = "Goettingen, Germany"
   date_start = "2014-10-01"
-  date_end = "2019-0930"
+  date_end = "2019-09-30"
   description = "Prof. Silke Hans"
 
 +++
