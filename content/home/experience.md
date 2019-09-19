@@ -24,9 +24,8 @@ date_format = "Jan 2006"
   location = "The Hague"
   date_start = "2020-01-01"
   date_end = ""
-  description = ""
-  Invited by Prof. Marcel Lubbers
-  
+  description = "Invited by Prof. Marcel Lubbers"
+    
   """
 
 [[experience]]
