@@ -12,9 +12,7 @@ view: 4
 header:
   caption: ""
   image: ""
----
 
----
 title: "An example journal article"
 authors:
 - admin
