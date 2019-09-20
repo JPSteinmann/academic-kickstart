@@ -10,6 +10,6 @@ view: 4
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: "https://www.tandfonline.com/doi/full/10.1080/1369183X.2018.1480359"
+  caption: ""
   image: ""
 ---
