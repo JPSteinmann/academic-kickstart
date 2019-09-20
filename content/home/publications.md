@@ -65,9 +65,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-Steinmann, Jan-Philip (2019): The paradox of integration: why do higher educated new immigrants perceive more discrimination in Germany? Journal of Ethnic and Migration Studies 45(9): 1377-1400.
-
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
