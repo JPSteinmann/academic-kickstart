@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "The Hague, The Netherlands"
   date_start = "2020-01-01"
   date_end = ""
-  description = "Collaborating with Prof. Marcel Lubbers"
+  description = ""
 
 [[experience]]
   title = "Research Assistant"
@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   location = "Goettingen, Germany"
   date_start = "2014-10-01"
   date_end = ""
-  description = "Collaborating with Prof. Silke Hans"
+  description = ""
   
 [[experience]]
   title = "Visiting Student"
@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   location = "Utrecht, The Netherlands"
   date_start = "2013-09-01"
   date_end = "2014-01-30"
-  description = "Research Master’s Programme “Migration, Ethnic Relations and Multiculturalism”"
+  description = "”"
 
 [[experience]]
   title = "Student Assistant"
@@ -51,6 +51,6 @@ date_format = "Jan 2006"
   location = "Goettingen, Germany"
   date_start = "2010-02-01"
   date_end = "2014-09-30"
-  description = "Collaborating with Prof. Silke Hans, Prof. Karin Kurz, and Prof. Claudia Diehl"
+  description = ""
 
 +++
