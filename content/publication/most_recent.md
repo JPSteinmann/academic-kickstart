@@ -60,6 +60,7 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: example
+---
 
 [[publication]]
 title: "The paradox of integration: why do higher educated new immigrants perceive more discrimination in Germany?"
