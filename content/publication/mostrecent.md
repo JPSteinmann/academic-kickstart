@@ -2,11 +2,11 @@
 title: "The paradox of integration: why do higher educated new immigrants perceive more discrimination in Germany?"
 authors:
 - admin
-date: "2015-09-01T00:00:00Z"
-doi: ""
+date: ""
+doi: "https://doi.org/10.1080/1369183X.2018.1480359"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -15,13 +15,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Journal of Ethnic and Migration Studies, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This article analyses the relation between immigrants’ educational attainment and their perceived discrimination. Previous studies in the Netherlands have found that ethnic discrimination is a particularly salient concern among higher educated immigrants, also referred to as the paradox of integration. By using data from the SCIP-project (‘Causes and Consequences of Early Socio-Cultural Integration Processes among New Immigrants in Europe’), I empirically examine, firstly, whether this counterintuitive finding applies to the group of recently arrived Polish and Turkish immigrants in Germany. Secondly, based on three theoretical perspectives, and taking the opportunity structure, immigrants’ awareness, and their relative deprivation into account, I am concerned with the explanation of the integration paradox. Bivariate results confirm the existence of the integration paradox for recent immigrants in Germany. The findings of mediation analysis and effect decomposition indicate that all three theoretical approaches contribute to the explanation; however, the positive relation between educational attainment and perceived discrimination requires slightly different explanations for Poles and Turks. The results further illustrate that it would be misleading to conclude that higher educated immigrants are automatically protected against discriminatory acts.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ""
 
 tags:
 - Source Themes
