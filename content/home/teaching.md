@@ -7,10 +7,6 @@ weight = 70  # Order that this section will appear in.
 
 title = ""
 
-# Choose the user profile to display
-# This should be the username of a profile in your `content/authors/` folder.
-# See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
-author = "admin"
 +++
 
 This is a description of a teaching experience. You can use markdown like any other post.
