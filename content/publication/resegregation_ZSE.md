@@ -30,7 +30,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.beltz.de/fachmedien/erziehungs_und_sozialwissenschaften/zeitschriften/zeitschrift_fuer_soziologie_der_erziehung_und_sozialisation/show/Journal/ausgabe/37270-zeitschrift_fuer_soziologie_der_erziehung_und_sozialisation_42018.html
+url_pdf: https://www.beltz.de/fachmedien/erziehungs_und_sozialwissenschaften/zeitschriften/zeitschrift_fuer_soziologie_der_erziehung_und_sozialisation/article/Journal.html?tx_beltz_journal%5Barticle%5D=40406&cHash=3745d668497fef69797facd699b708fe
 url_code: ''
 url_dataset: ''
 url_poster: ''
