@@ -1,5 +1,5 @@
 ---
-title: Recent Publications
+title: Publications
 
 # View.
 #   1 = List
@@ -10,6 +10,6 @@ view: 4
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: "XXX"
+  caption: ""
   image: ""
 ---
