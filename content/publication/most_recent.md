@@ -1,5 +1,5 @@
 ---
-[[item]]
+[[publication]]
 title: "The paradox of integration: why do higher educated new immigrants perceive more discrimination in Germany?"
 authors:
 - admin
@@ -61,9 +61,7 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 
----
-
-[[item]]
+[[publication]]
 title: "The paradox of integration: why do higher educated new immigrants perceive more discrimination in Germany?"
 authors:
 - admin
