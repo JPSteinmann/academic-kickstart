@@ -66,4 +66,7 @@ user_groups:
 - Visitors
 ---
 
-I am currently research assistant at the Institute of Sociology ath the University of Goettingen.
+My name is Jan-Philip Steinmann, I am a research assistant at the University of Goettingen, Germany, where I am currently working on my PhD thesis. Although, I am a sociologist, I make use of interdisciplinary ideas from various fields such as social psychology, educational research, demography or statistics. My research focus mainly relates to migration processes and immigrants’ integration. Particularly, I have worked on various topics so far, including anti-immigrant attitudes, remigration intentions, ethnic boundary-making, perceived discrimination, inter-ethnic contact, and immigrants’ labour market integration, mainly using quantitative empirical methods.
+
+My work appeared in journals such as Journal of Ethnic and Migration Studies, Migration Studies, and International Journal of Conflict and Violence.
+
