@@ -66,7 +66,6 @@ subtitle = ""
  css_class = ""
 +++
 
----
 title: "An example journal article"
 authors:
 - admin
@@ -128,7 +127,6 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: example
----
 
 Steinmann, Jan-Philip (2019): The paradox of integration: why do higher educated new immigrants perceive more discrimination in Germany? Journal of Ethnic and Migration Studies 45(9): 1377-1400.
 
