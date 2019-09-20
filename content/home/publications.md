@@ -58,6 +58,14 @@ subtitle = ""
   # Text color (true=light or false=dark).
   # text_color_light = true  
   
+[advanced]
+ # Custom CSS. 
+ css_style = ""
+ 
+ # CSS class.
+ css_class = ""
++++
+
 [[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
@@ -67,14 +75,6 @@ subtitle = ""
   date_start = "2017-07-01"
   date_end = "2017-12-21"
   description = ""
-
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
-+++
 
 {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
