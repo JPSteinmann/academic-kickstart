@@ -14,4 +14,4 @@ weight = 80
 
 +++
 
-I offer a broad portfolio of courses ranging from introductory courses on cultural sociology, social structure analysis, and good scientific practice to advanced courses on more specific topics, such as xenophobia and discrimination, refugee integration, immigrants’ social networks, and right-wing populist attitudes.
+I offer a broad portfolio of courses ranging from introductory courses on cultural sociology, social structure analysis, and good scientific practice to advanced courses on more specific topics, such as xenophobia and discrimination, refugee integration, social networks of immigrants, and right-wing populist attitudes.
