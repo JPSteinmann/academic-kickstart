@@ -1,8 +1,7 @@
 ---
-title: "An example journal article"
+title: "The paradox of integration: why do higher educated new immigrants perceive more discrimination in Germany?"
 authors:
 - admin
-- Robert Ford
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
