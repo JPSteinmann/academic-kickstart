@@ -1,5 +1,5 @@
 ---
-title: "XXX"
+title: "XXXX"
 authors:
 - admin
 date: "2019-06-01"
