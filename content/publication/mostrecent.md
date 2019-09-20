@@ -3,7 +3,7 @@ title: "The paradox of integration: why do higher educated new immigrants percei
 authors:
 - admin
 date: ""
-doi: "https://doi.org/10.1080/1369183X.2018.1480359"
+doi: "doi.org/10.1080/1369183X.2018.1480359"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -30,7 +30,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://doi.org/10.1080/1369183X.2018.1480359
 url_code: ''
 url_dataset: ''
 url_poster: ''
