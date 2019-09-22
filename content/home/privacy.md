@@ -6,8 +6,8 @@ widget = "custom"
 active = true
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "#"
-subtitle = "#"
+# title = ""
+# subtitle = ""
 
 # Order that this section will appear in.
 weight = 150
