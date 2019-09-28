@@ -46,7 +46,7 @@ social:
   link: "mailto:jan-philip.steinmann@sowi.uni-goettingen.de"
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.de/
+  link: https://scholar.google.de/citations?user=TIeoVHsAAAAJ&hl=de&oi=ao
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Jan_Philip_Steinmann
