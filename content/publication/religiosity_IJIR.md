@@ -1,8 +1,8 @@
 ---
-title: "NEW"
+title: "Religiosity and natives’ social contact with new refugees. Explaining differences between East and West Germany"
 authors:
 - admin
-date: "2019-06-01"
+date: "2019-12-14"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -15,13 +15,13 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Ethnic and Migration Studies"
+publication: "International Journal of Intercultural Relations"
 publication_short: ""
 
-abstract: This article analyses the relation between immigrants’ educational attainment and their perceived discrimination. Previous studies in the Netherlands have found that ethnic discrimination is a particularly salient concern among higher educated immigrants, also referred to as the paradox of integration. By using data from the SCIP-project (‘Causes and Consequences of Early Socio-Cultural Integration Processes among New Immigrants in Europe’), I empirically examine, firstly, whether this counterintuitive finding applies to the group of recently arrived Polish and Turkish immigrants in Germany. Secondly, based on three theoretical perspectives, and taking the opportunity structure, immigrants’ awareness, and their relative deprivation into account, I am concerned with the explanation of the integration paradox. Bivariate results confirm the existence of the integration paradox for recent immigrants in Germany. The findings of mediation analysis and effect decomposition indicate that all three theoretical approaches contribute to the explanation; however, the positive relation between educational attainment and perceived discrimination requires slightly different explanations for Poles and Turks. The results further illustrate that it would be misleading to conclude that higher educated immigrants are automatically protected against discriminatory acts.
+abstract: The recent migration flows of refugees to Germany allow for the investigation of social contact between new arrivals and the longer-residing population. By examining this contact from the perspective of natives, I try to explain why West Germans have more frequent contact with refugees compared to their East German counterparts. I add the role of natives’ religiosity to the explanation and, thereby, integrate it into the ‘opportunities–preferences–third parties’ framework, which is commonly used to explain inter-ethnic contact. Based on data from the GGSS (German General Social Survey) in 2016, and by applying logistic regression, I show that natives’ religiosity (highly religious constitute an exception) is a facilitating factor for the establishment of contact with refugees, whereas the role of natives’ religious affiliation is inconclusive. By means of mediation analysis and effect decomposition, it is revealed that the East-West divide in contact with recent refugees is – among other well-known explanatory factors (number of refugees, attitudes towards refugees, and economic situation) – attributable to natives’ lower degree of religiosity in East Germany. The differing number of Christians and Muslims between East and West Germany is not decisive in this regard. In conclusion, the study provides an example of how different contexts of reception, secularised East Germany and less secularised West Germany, shape social contact between natives and refugees, and, thereby, also influence the early integration processes of new arrivals.
 
 # Summary. An optional shortened abstract.
-summary: "Journal of Ethnic and Migration Studies"
+summary: "International Journal of Intercultural Relations"
 
 tags:
 - Source Themes
