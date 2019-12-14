@@ -30,7 +30,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://doi.org/10.1080/1369183X.2018.1480359
+url_pdf: https://doi.org/10.1016/j.ijintrel.2019.10.007
 url_code: ''
 url_dataset: ''
 url_poster: ''
