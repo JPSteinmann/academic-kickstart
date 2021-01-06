@@ -85,16 +85,16 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "jan-philip.steinmann@sowi.uni-goettingen.de"
-phone = "+49 (0)551 39 10926"
+email = "jp.steinmann@uni-bremen.de"
+phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Institute of Sociology, Platz der Göttinger Sieben 3", city = "Goettingen", region = "", postcode = "37073", country = "Germany", country_code = ""}
+address = {street = "Research Center on Inequality and Social Policy (SOCIUM), Mary-Somerville-Straße 5", city = "Bremen", region = "", postcode = "28359", country = "Germany", country_code = ""}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "51.541051", longitude = "9.934784"}
+coordinates = {latitude = "53.10658918715348", longitude = "8.86297380740261"}
 
 # Directions for visitors to locate you.
 directions = ""
