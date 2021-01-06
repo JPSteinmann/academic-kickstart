@@ -1,6 +1,6 @@
 ---
 title: "Do gender-role values matter? Explaining new refugee women’s social contact in Germany"
-authors: "Jörg Hartmann and Jan-Philip Steinmann"
+authors:
 - admin
 date: "2020-11-10"
 doi: ""
