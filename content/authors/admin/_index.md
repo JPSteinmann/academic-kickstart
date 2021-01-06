@@ -14,8 +14,8 @@ role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
-- name: University of Goettingen
-  url: "http://www.uni-goettingen.de/"
+- name: University of Bremen
+  url: "https://www.uni-bremen.de/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include migration and integration, ethnic boundary-making, social networks and methods of social research.
@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:jan-philip.steinmann@sowi.uni-goettingen.de"
+  link: "mailto:jp.steinmann@uni-bremen.de"
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.de/citations?user=TIeoVHsAAAAJ&hl=de&oi=ao
@@ -66,7 +66,7 @@ user_groups:
 - Visitors
 ---
 
-My name is Jan-Philip Steinmann, I am a research assistant at the University of Goettingen, Germany, where I am currently working on my PhD thesis. Although, I am a sociologist, I make use of interdisciplinary ideas from various fields such as social psychology, educational research, demography or statistics. My research focus mainly relates to migration processes and immigrants’ integration. Particularly, I have worked on various topics so far, including anti-immigrant attitudes, remigration intentions, ethnic boundary-making, perceived discrimination, inter-ethnic contact, and immigrants’ labour market integration, mainly using quantitative empirical methods.
-
-My work appeared in journals such as Journal of Ethnic and Migration Studies, Migration Studies, and International Journal of Conflict and Violence.
+My name is Jan-Philip Steinmann and I am a postdoctoral researcher at the Research Institute Social Cohesion (RISC) and the Research Center on Inequality and Social Policy (SOCIUM) at the University of Bremen, Germany. I consider myself a sociologist, on the border between cultural sociology and social structure analysis. My research interests, in the broadest sense, relate to causes and consequences of (decreasing or increasing) social cohesion. Thereby, I mainly focus on migration processes and immigrants’ integration, right-wing populism, segregation between and evaluation of social milieus, and the COVID-19 pandemic. Across all these topics, I investigate paradoxical effects of religiosity. Although I am mostly using quantitative empirical methods, I am also conducting mixed methods research.
+I hold a doctoral degree from University of Goettingen, Germany. I have been visiting student/researcher at Utrecht University and the Netherlands Interdisciplinary Demographic Institute (NIDI) in The Hague.
+My work appeared in several journals including International Migration Review, Journal of Ethnic and Migration Studies, and International Journal of Intercultural Relations.
 
