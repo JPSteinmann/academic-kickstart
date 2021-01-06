@@ -1,5 +1,5 @@
 ---
-title: "Religiosity and natives’ social contact with new refugees. Explaining differences between East and West Germany"
+title: "Do gender-role values matter? Explaining new refugee women’s social contact in Germany"
 authors:
 - admin
 date: "2020-11-10"
