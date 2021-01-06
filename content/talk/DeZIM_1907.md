@@ -1,9 +1,9 @@
 ---
-title: With a little help from my educated friends. Revisiting the role of social capital for new and long-term immigrants’ labour market integration in Germany
-event: Conference of the Akademie für Soziologie (AS)
-event_url: https://digitalsocieties2019.net/
+title: Kann Religiosität das Ausmaß sozialer Kontakte zu Geflüchteten erklären? Ein Vergleich zwischen Ost- und Westdeutschland
+event: Deutsche Zentrum für Integrations- und Migrationsforschung (DeZIM) Early Career Scholars’ Conference
+event_url: https://www.uni-due.de/imperia/md/content/inzentim/programm_dezim_nwt.pdf
 
-location: "University of Konstanz"
+location: "University of Duisburg-Essen"
 address:
   street: ""
   city: ""
@@ -16,14 +16,14 @@ abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-09-25"
-date_end: "2019-09-27"
+date: "2019-07-17"
+date_end: "2019-07-19"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: [Julia Rüdel, admin]
+authors: [admin]
 tags: []
 
 # Is this a featured talk? (true/false)
