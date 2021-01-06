@@ -68,7 +68,7 @@ user_groups:
 
 My name is Jan-Philip Steinmann and I am a postdoctoral researcher at the Research Institute Social Cohesion (RISC) and the Research Center on Inequality and Social Policy (SOCIUM) at the University of Bremen, Germany. I consider myself a sociologist, on the border between cultural sociology and social structure analysis. My research interests, in the broadest sense, relate to causes and consequences of (decreasing or increasing) social cohesion. Thereby, I mainly focus on migration processes and immigrants’ integration, right-wing populism, segregation between and evaluation of social milieus, and the COVID-19 pandemic. Across all these topics, I investigate paradoxical effects of religiosity. Although I am mostly using quantitative empirical methods, I am also conducting mixed methods research.
 
-I hold a doctoral degree from University of Goettingen, Germany. I have been visiting student/researcher at Utrecht University and the Netherlands Interdisciplinary Demographic Institute (NIDI) in The Hague.
+I hold a doctoral degree from the University of Goettingen, Germany. I have been visiting student/researcher at Utrecht University and the Netherlands Interdisciplinary Demographic Institute (NIDI) in The Hague.
 
 My work appeared in several journals including International Migration Review, Journal of Ethnic and Migration Studies, and International Journal of Intercultural Relations.
 
