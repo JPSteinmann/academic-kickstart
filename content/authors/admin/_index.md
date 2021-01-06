@@ -15,7 +15,7 @@ role: Research Assistant
 # Organizations/Affiliations
 organizations:
 - name: University of Bremen
-  url: "https://www.uni-bremen.de/"
+  url: "http://www.uni-bremen.de/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include migration and integration, ethnic boundary-making, social networks and methods of social research.
