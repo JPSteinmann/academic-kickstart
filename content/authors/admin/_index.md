@@ -20,21 +20,21 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include migration and integration, ethnic boundary-making, social networks and methods of social research.
 
-interests:
-- Migration and Integration
-- Ethnic Boundary-making
-- Recent Immigrants
-- Social Networks
-- Methods of Social Research
+# interests:
+# - Migration and Integration
+# - Ethnic Boundary-making
+# - Recent Immigrants
+# - Social Networks
+# - Methods of Social Research
 
-education:
-  courses:
-  - course: Master of Arts (M.A.) in Sociology
-    institution: University of Goettingen
-    year: 2014
-  - course: Bachelor of Arts (B.A.) in Sociology
-    institution: University of Goettingen 
-    year: 2011
+# education:
+#   courses:
+#   - course: Master of Arts (M.A.) in Sociology
+#     institution: University of Goettingen
+#     year: 2014
+#   - course: Bachelor of Arts (B.A.) in Sociology
+#     institution: University of Goettingen 
+#     year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
