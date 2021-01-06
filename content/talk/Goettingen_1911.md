@@ -1,9 +1,9 @@
 ---
-title: With a little help from my educated friends. Revisiting the role of social capital for new and long-term immigrants’ labour market integration in Germany
-event: Conference of the Akademie für Soziologie (AS)
-event_url: https://digitalsocieties2019.net/
+title: Der Ost-West-Unterschied im Ausmaß sozialer Kontakte zu Geflüchteten in Deutschland. Eine Frage der Religiosität? 
+event: Workshop „Ostdeutsche Krisenerfahrungen und ihre Folgen“
+event_url: http://www.ostdeutsche-krisenerfahrungen.uni-goettingen.de/
 
-location: "University of Konstanz"
+location: "University of Goettingen"
 address:
   street: ""
   city: ""
@@ -16,8 +16,8 @@ abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-09-25"
-date_end: "2019-09-27"
+date: "2019-11-07"
+date_end: "2019-11-08"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
