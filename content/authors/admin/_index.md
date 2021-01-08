@@ -18,7 +18,7 @@ organizations:
   url: "https://www.uni-bremen.de/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include migration and integration, ethnic boundary-making, social networks and methods of social research.
+bio: Postdoctoral researcher at the Research Institute Social Cohesion (RISC) and the Research Center on Inequality and Social Policy (SOCIUM) at the University of Bremen, Germany.
 
 # interests:
 # - Migration and Integration
