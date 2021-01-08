@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Assistant
+role: Postdoctoral researcher
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.uni-bremen.de/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Postdoctoral researcher at the Research Institute Social Cohesion (RISC) and the Research Center on Inequality and Social Policy (SOCIUM) at the University of Bremen, Germany.
+bio: Research Institute Social Cohesion (RISC) and the Research Center on Inequality and Social Policy (SOCIUM) at the University of Bremen, Germany
 
 # interests:
 # - Migration and Integration
