@@ -15,7 +15,7 @@ role: Postdoctoral researcher
 # Organizations/Affiliations
 organizations:
 - name: University of Bremen
-  url: "https://www.uni-bremen.de/"
+  url: "https://www.socium.uni-bremen.de/about-the-socium/members/jan-philip-steinmann/en/?"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Research Institute Social Cohesion (RISC) and the Research Center on Inequality and Social Policy (SOCIUM) at the University of Bremen, Germany
