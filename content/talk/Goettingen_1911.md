@@ -3,7 +3,7 @@ title: Der Ost-West-Unterschied im Ausmaß sozialer Kontakte zu Geflüchteten in
 event: Workshop „Ostdeutsche Krisenerfahrungen und ihre Folgen“
 event_url: http://www.ostdeutsche-krisenerfahrungen.uni-goettingen.de/
 
-location: "University of Goettingen"
+location: "Goettingen"
 address:
   street: ""
   city: ""
