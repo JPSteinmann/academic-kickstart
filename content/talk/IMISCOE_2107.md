@@ -1,9 +1,9 @@
 ---
 title: Misperceptions of the foreign-born population size in European societies. The role of national discourse on immigration-related issues
-event: Winterklausur des Forschungsinstituts Gesellschaftlicher Zusammenhalt (FGZ)
-event_url: https://www.uni-muenster.de/Soziologie/institut/arbeitsgruppen/aqr.shtml
+event: Annual Conference International Migration, Integration and Social Cohesion (IMISCOE)
+event_url: https://www.imiscoe.org/conference/sessions/?session=27
 
-location: "Leipzig (online)"
+location: "Luxembourg (online)"
 address:
   street: ""
   city: ""
@@ -16,8 +16,8 @@ abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-01-28"
-date_end: "2021-01-30"
+date: "2021-07-07"
+date_end: "2021-07-07"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
