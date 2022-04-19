@@ -1,9 +1,9 @@
 ---
-title: Segmentation und wechselseitige Bewertungen sozialer Milieus – Die Integration qualitativer und quantitativer Daten im Rahmen eines parallelen Mixed-Methods Designs
-event: Tagung Mixed Methods in der Sozialstrukturanalyse: Integrationspotenziale qualitativer und quantitativer Forschungsansätze
-event_url: https://soziale-ungleichheit.de/mixed-methods-tagung-2022/
+title: Misperceptions of the foreign-born population size in European societies. The role of national discourse on immigration-related issues
+event: Annual Conference International Migration, Integration and Social Cohesion (IMISCOE)
+event_url: https://www.imiscoe.org/conference/sessions/?session=27
 
-location: "Göttingen"
+location: "Luxembourg (online)"
 address:
   street: ""
   city: ""
@@ -16,14 +16,14 @@ abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-03-31"
-date_end: "2022-04-01"
+date: "2021-07-07"
+date_end: "2021-07-09"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: [Batina Hollstein, admin, Liz Weiler, Michael Windzio]
+authors: [admin, Marcel Lubbers]
 tags: []
 
 # Is this a featured talk? (true/false)
