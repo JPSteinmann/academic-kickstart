@@ -94,7 +94,7 @@ address = {street = "Criminological Research Institute of Lower Saxony (KFN), LÃ
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "52.38846884589538", longitude = "9.743206238098882"}
+coordinates = {latitude = "52.38776003458326", longitude = "9.742980932556188"}
 
 # Directions for visitors to locate you.
 directions = ""
