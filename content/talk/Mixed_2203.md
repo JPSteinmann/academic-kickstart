@@ -22,7 +22,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: [Batina Hollstein, admin, Marcel Lubbers]
+authors: [Batina Hollstein, admin, Liz Weiler, Michael Windzio]
 tags: []
 
 # Is this a featured talk? (true/false)
