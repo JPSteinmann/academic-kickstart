@@ -14,11 +14,11 @@ role: Postdoctoral researcher
 
 # Organizations/Affiliations
 organizations:
-- name: University of Bremen
-  url: "https://www.socium.uni-bremen.de/about-the-socium/members/jan-philip-steinmann/en/?"
+- name: Criminological Research Institute of Lower Saxony (KFN)
+  url: "https://en.kfn.de/kfn/institute/researcher/dr-jan-philip-steinmann/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Research Institute Social Cohesion (RISC) and the Research Center on Inequality and Social Policy (SOCIUM) at the University of Bremen, Germany
+bio: Head of the Research Unit “Causes and developments of deviant behaviour” at the Criminological Research Institute of Lower Saxony (KFN), Germany
 
 # interests:
 # - Migration and Integration
@@ -43,7 +43,7 @@ bio: Research Institute Social Cohesion (RISC) and the Research Center on Inequa
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:jp.steinmann@uni-bremen.de"
+  link: "mailto:jp.steinmann@kfn.de"
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.de/citations?user=TIeoVHsAAAAJ&hl=de&oi=ao
@@ -66,9 +66,10 @@ user_groups:
 - Visitors
 ---
 
-My name is Jan-Philip Steinmann and I am a postdoctoral researcher at the Research Institute Social Cohesion (RISC) and the Research Center on Inequality and Social Policy (SOCIUM) at the University of Bremen, Germany. I consider myself a sociologist, on the border between cultural sociology and social structure analysis. My research interests, in the broadest sense, relate to causes and consequences of (decreasing or increasing) social cohesion. Thereby, I mainly focus on migration processes and immigrants’ integration, right-wing populism, deviant behavior, and the COVID-19 pandemic. Across all these topics, I investigate paradoxical effects of religiosity. Although I am mostly using quantitative empirical methods, I am also conducting mixed methods research.
+My name is Jan-Philip Steinmann and I am Head of the Research Unit “Causes and developments of deviant behaviour” at the Criminological Research Institute of Lower Saxony (KFN) and a postdoctoral researcher at the Research Institute Social Cohesion (RISC) and the Research Center on Inequality and Social Policy (SOCIUM) at the University of Bremen, Germany. My research interests, in the broadest sense, relate to causes and consequences of (decreasing or increasing) social cohesion. Thereby, I mainly focus on migration processes and immigrants’ integration, right-wing populism, and deviant behavior. Across all these topics, I investigate paradoxical effects of religiosity. Although I am mostly using quantitative empirical methods, I am also conducting mixed methods research.
 
-I hold a doctoral degree from University of Goettingen, Germany. I have been visiting student/researcher at Utrecht University and the Netherlands Interdisciplinary Demographic Institute (NIDI) in The Hague.
+I hold a doctoral degree from the University of Goettingen, Germany. I have been visiting student/researcher at Utrecht University and the Netherlands Interdisciplinary Demographic Institute (NIDI) in The Hague.
 
-My work appeared in several journals including International Migration Review, Journal of Ethnic and Migration Studies, and International Journal of Intercultural Relations.
+My work appeared in several journals including International Migration Review, Journal of Ethnic and Migration Studies, and Kölner Zeitschrift für Soziologie und Sozialpsychologie.
+
 
