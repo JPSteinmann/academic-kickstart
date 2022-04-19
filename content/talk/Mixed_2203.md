@@ -1,9 +1,9 @@
 ---
 title: Segmentation und wechselseitige Bewertungen sozialer Milieus – Die Integration qualitativer und quantitativer Daten im Rahmen eines parallelen Mixed-Methods Designs
-event: Mixed Methods in der Sozialstrukturanalyse – Integrationspotenziale qualitativer und quantitativer Forschungsansätze
+event: "Mixed Methods in der Sozialstrukturanalyse: Integrationspotenziale qualitativer und quantitativer Forschungsansätze"
 event_url: https://soziale-ungleichheit.de/mixed-methods-tagung-2022/
 
-location: "Luxembourg (online)"
+location: "Göttingen"
 address:
   street: ""
   city: ""
