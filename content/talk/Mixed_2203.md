@@ -1,6 +1,6 @@
 ---
 title: Segmentation und wechselseitige Bewertungen sozialer Milieus – Die Integration qualitativer und quantitativer Daten im Rahmen eines parallelen Mixed-Methods Designs
-event: Annual Conference International Migration, Integration and Social Cohesion (IMISCOE)
+event: Mixed Methods in der Sozialstrukturanalyse – Integrationspotenziale qualitativer und quantitativer Forschungsansätze
 event_url: https://www.imiscoe.org/conference/sessions/?session=27
 
 location: "Luxembourg (online)"
