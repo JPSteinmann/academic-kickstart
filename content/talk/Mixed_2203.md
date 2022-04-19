@@ -1,5 +1,5 @@
 ---
-title: Misperceptions of the foreign-born population size in European societies. The role of national discourse on immigration-related issues
+title: Segmentation und wechselseitige Bewertungen sozialer Milieus – Die Integration qualitativer und quantitativer Daten im Rahmen eines parallelen Mixed-Methods Designs
 event: Annual Conference International Migration, Integration and Social Cohesion (IMISCOE)
 event_url: https://www.imiscoe.org/conference/sessions/?session=27
 
