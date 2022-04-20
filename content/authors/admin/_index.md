@@ -48,7 +48,7 @@ social:
   icon_pack: ai
   link: https://scholar.google.de/citations?user=TIeoVHsAAAAJ&hl=de&oi=ao
 - icon: twitter
-  icon_pack: ai
+  icon_pack: fab
   link: https://twitter.com/JanPhilipStein1
 - icon: researchgate
   icon_pack: ai
