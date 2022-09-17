@@ -49,7 +49,7 @@ social:
   link: https://scholar.google.de/citations?user=TIeoVHsAAAAJ&hl=de&oi=ao
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/JanPhilipStein1
+  link: https://twitter.com/steinmann_jp
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Jan_Philip_Steinmann
