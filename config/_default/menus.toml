@@ -17,15 +17,15 @@
   name = "Presentations"
   url = "#talks"
   weight = 30
-  
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 40
 
 [[main]]
   name = "Work in progress"
   url = "#inprogress"
+  weight = 40
+
+[[main]]
+  name = "Contact"
+  url = "#contact"
   weight = 50
 
 # Link to a PDF of your resume/CV from the menu.
