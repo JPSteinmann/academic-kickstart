@@ -12,15 +12,15 @@
   name = "Publications"
   url = "#publications"
   weight = 20
+  
+[[main]]
+  name = "Work in progress"
+  url = "#inprogress"
+  weight = 30
 
 [[main]]
   name = "Presentations"
   url = "#talks"
-  weight = 30
-
-[[main]]
-  name = "Work in progress"
-  url = "#inprogress"
   weight = 40
 
 [[main]]
