@@ -1,7 +1,7 @@
 ---
 title: Highly religious and immigrant-friendly? The nonlinear relation between religiosity and anti-immigrant attitudes in Germany
 event: Annual Conference International Migration, Integration and Social Cohesion (IMISCOE)
-event_url: [https://www.uni-muenster.de/Soziologie/institut/arbeitsgruppen/aqr.shtml](https://www.imiscoe.org/conference/)
+event_url: [https://www.imiscoe.org/conference/]
 
 location: "Oslo (hybrid)"
 address:
