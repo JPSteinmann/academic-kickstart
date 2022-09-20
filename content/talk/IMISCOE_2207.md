@@ -21,7 +21,7 @@ date_end: "2012-07-01"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-06-29T00:00:00Z"
 
 authors: [admin]
 tags: []
