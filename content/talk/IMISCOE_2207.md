@@ -1,9 +1,9 @@
 ---
-title: Highly religious and immigrant-friendly? The nonlinear relation between religiosity and anti-immigrant attitudes in Germany
-event: Annual Conference International Migration, Integration and Social Cohesion (IMISCOE)
-event_url: [https://www.uni-muenster.de/Soziologie/institut/arbeitsgruppen/aqr.shtml](https://www.imiscoe.org/conference/)
+title: (K)eine immunisierende Wirkung? Eine binnendifferenzierte Analyse zum Zusammenhang von christlicher Religiosität und der Wahl rechtspopulistischer Parteien
+event: Jahrestagung des Arbeitskreises quantitative Religionsforschung (AKqR)
+event_url: https://www.uni-muenster.de/Soziologie/institut/arbeitsgruppen/aqr.shtml
 
-location: "Oslo (hybrid)"
+location: "Nürnberg (online)"
 address:
   street: ""
   city: ""
@@ -16,7 +16,7 @@ abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-07-01"
+date: "2021-02-05"
 # date_end: "2019-07-17"
 all_day: true
 
