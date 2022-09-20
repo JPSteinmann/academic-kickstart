@@ -3,7 +3,7 @@ title: "Title"
 author: "admin"
 date: 2016-02-09 03:13:43+00:00
 slug: Slug
-categories: ""
+categories: ["likelihood"]
 tags: ["likelihood"]
 math: true
 header:
