@@ -1,9 +1,9 @@
 ---
-title: Highly religious and immigrant-friendly? The nonlinear relation between religiosity and anti-immigrant attitudes in Germany
-event: Annual Conference International Migration, Integration and Social Cohesion (IMISCOE)
-event_url: https://www.imiscoe.org/conference/
+title: Jugendliche und die Hinwendung zur extremen Rechten
+event: Wissenschaftlichen Fachtagung der Kriminologischen Gesellschaft (KrimG)
+event_url: https://www.krimg2022.com/
 
-location: "Oslo (hybrid)"
+location: "Hannover"
 address:
   street: ""
   city: ""
@@ -16,8 +16,8 @@ abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-06-29"
-date_end: "2022-07-01"
+date: "2022-09-08"
+date_end: "2022-09-10"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
