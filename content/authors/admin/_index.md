@@ -20,12 +20,16 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Head of the Research Unit “Causes and developments of deviant behaviour” at the Criminological Research Institute of Lower Saxony (KFN), Germany
 
-interests:
-- Migration and Integration
-- Ethnic Boundary-making
-- Recent Immigrants
-- Social Networks
-- Methods of Social Research
+Reviewing:
+- Ethnicities (1x)
+- European Sociological Review (9x)
+- Frontiers in Sociology (4x)
+- International Migration Review (5x)
+- Journal of Ethnic and Migration Studies (7x)
+- Race and Social Problems (1x)
+- Social Science Research (1x)
+- Zeitschrift für Religion, Gesellschaft und Politik (2x)
+- Zeitschrift für Soziologie (1x)
 
 # education:
 #   courses:
