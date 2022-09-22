@@ -61,4 +61,15 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+ 
+Ethnicities (1x)
+European Sociological Review (9x)
+Frontiers in Sociology (4x)
+International Migration Review (5x)
+Journal of Ethnic and Migration Studies (7x)
+Race and Social Problems (1x)
+Social Science Research (1x)
+Zeitschrift für Religion, Gesellschaft und Politik (2x)
+Zeitschrift für Soziologie (1x)
+
 +++
