@@ -47,16 +47,6 @@ date_format = "Jan 2006"
   date_start = "2022-07-22"
   date_end = ""
   description = "Der Artikel widmet sich dem Zusammenhang von Religiosität und Fremdenfeindlichkeit im deutschen Kontext und stellt die Annahme bisheriger Forschung infrage, zwischen den beiden Konstrukten herrsche ein linearer Zusammenhang. Stattdessen werden theoretische Argumente für einen nichtlinearen Zusammenhang zwischen Religiosität und Fremdenfeindlichkeit präsentiert. Die Sonderrolle hochreligiöser Christinnen und Christen, ihr erhöhtes Niveau an fremdenfeindlichen Einstellungen, wird über die wahrgenommene Benachteiligung der Eigengruppe gegenüber Eingewanderten begründet. Durch die Bezugnahme auf die Theorie sozialer Produktionsfunktionen kann die Argumentation zudem in einen allgemeinen theoretischen Rahmen eingebettet werden. Auf Basis der „Allgemeinen Bevölkerungsumfrage der Sozialwissenschaften“ (ALLBUS) aus den Jahren 2006 bis 2021 wird der vermutete nichtlineare Zusammenhang untersucht. Es zeigt sich empirisch, dass in Ostdeutschland eine lineare, in Westdeutschland jedoch eine nichtlineare Verknüpfung zwischen Religiosität und Fremdenfeindlichkeit vorliegt. Während im ostdeutschen Kontext ein Mehr an Religiosität mit einem geringeren Niveau fremdenfeindlicher Einstellungen einhergeht, zeigt sich im westdeutschen Kontext, dass Hochreligiöse von der Linearitätsannahme früherer Forschung abweichen, also mitnichten migrantenfreundlich, sondern vergleichsweise migrantenfeindlich sind. Abschließend werden die Kontextspezifität der Ergebnisse sowie deren Verallgemeinerbarkeit diskutiert."
-  
-[[item]]
-  organization = "Michael Windzio, Liz Weiler, Betina Hollstein, Jan-Philip Steinmann"
-  organization_url = ""
-  title = "Wechselseitige Bewertungen sozialer Milieus. Erste empirische Befunde zum Einfluss von Netzwerken und moralischen Orientierungen"
-  url = ""
-  certificate_url = ""
-  date_start = "2022-06-22"
-  date_end = ""
-  description = "In diesem Beitrag untersuchen wir auf der Basis einer Mixed-Methods-Studie, wie andere Milieus bewertet werden und welchen Milieus sich Personen selbst und ihre engsten Bezugspersonen zuordnen lassen. Neben den Effekten der Milieuzugehörigkeit interessieren uns aus der Perspektive sozialer Produktionsfunktionen Einflüsse moralischer Orientierungen und egozentrierter Netzwerke in Magdeburg und Hannover als erklärende Variablen. In unseren vorläufigen Analysen deutet sich ein Einfluss der Positionierung der Milieus in Bezug auf den sozialen Wandel auf die wechselseitigen Bewertungen an, wenngleich insbesondere das konservativ-etablierte Milieu auch in vertikale Distinktionen involviert ist."
 
 [[item]]
   organization = "Julia Rüdel, Jan-Philip Steinmann"
