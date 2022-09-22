@@ -7,20 +7,21 @@
   name = "Home"
   url = "#about"
   weight = 10
-
-[[main]]
-  name = "Publications"
-  url = "#publications"
-  weight = 20
-
-[[main]]
-  name = "Presentations"
-  url = "#talks"
-  weight = 30
+  
 
 [[main]]
   name = "Work in Progress"
   url = "#inprogress"
+  weight = 20
+
+[[main]]
+  name = "Publications"
+  url = "#publications"
+  weight = 30
+
+[[main]]
+  name = "Presentations"
+  url = "#talks"
   weight = 40
 
 [[main]]
