@@ -20,7 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Head of the Research Unit “Causes and developments of deviant behaviour” at the Criminological Research Institute of Lower Saxony (KFN), Germany
 
-Interests:
 - Ethnicities (1x)
 - European Sociological Review (9x)
 - Frontiers in Sociology (4x)
