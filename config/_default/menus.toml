@@ -20,7 +20,7 @@
 
 [[main]]
   name = "Work in Progress"
-  url = "#posts"
+  url = "#inprogress"
   weight = 40
 
 [[main]]
