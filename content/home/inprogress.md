@@ -31,7 +31,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Jan-Philip Steinmann, Theresa Entringer, Jörg Hartmann, Hannes Kröger"
   organization_url = ""
-  title = "XXX"
+  title = "Religious well-being benefits in times of crises. Religiosity, social integration and changes in subjective well-being during the early stage of the COVID-19 pandemic in Germany"
   url = ""
   certificate_url = ""
   date_start = "2022-08-22"
