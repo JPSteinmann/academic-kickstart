@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2022-08-22"
   date_end = ""
-  description = "XXX"
+  description = ": A large body of literature indicates the benefits of being religious in terms of subjective well-being. We examine changes to these so-called religious well-being benefits during the early stage of the COVID-19 pandemic in Germany and address the role of (formal and informal) social integration when explaining these changes. Thereby, we empirically test two contrasting scenarios: The first scenario predicts decreasing religious well-being benefits (convergence hypothesis), while the second scenario assumes increasing religious well-being benefits (divergence hypothesis). By applying marginal structural models, and inverse probability of treatment weighting to nationally representative, longitudinal data including both pre- and during-pandemic periods, we show that initial religious well-being benefits declined during the early stage of the COVID-19 pandemic in Germany, and this decline was partly due to decreasing social integration perceived by religious individuals. Our results challenge the common idea that religious individuals are better protected against crises."
 
 [[item]]
   organization = "Jan-Philip Steinmann"
