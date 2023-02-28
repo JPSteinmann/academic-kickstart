@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Jan-Philip Steinmann"
+  organization_url = ""
+  title = "Faithful and fearful. Does religion promote or reduce fear of crime in Germany?"
+  url = ""
+  certificate_url = ""
+  date_start = "2023-02-28"
+  date_end = ""
+  description = "This article complements existing victimological studies on religion by investigating whether religion promotes or reduces fear of crime in Germany. According to the generalized insecurity approach and the theory of social production functions, religion and fear of crime are linked via secularization-induced diffuse insecurities. It is expected that different facets of religion are tied to fearing crime in different ways because the projection of secularization-induced diffuse insecurities occurs only among those individuals whose religious capital is devaluated. Based on empirical analyses of data from the 2021 German General Social Survey (GGSS), there is evidence that some religious minority groups are particularly likely to fear crime, religious belief is positively related to fearing crime, religious behavior is is negatively associated with fearing crime, and religion can promote fear of crime equally in East and West Germany. In conclusion, the study shows the importance of religion for the fear of crime and highlights the advantages of a general theoretical approach."
+
+[[item]]
   organization = "Jan-Philip Steinmann, Theresa Entringer, Jörg Hartmann, Hannes Kröger"
   organization_url = ""
   title = "Religious well-being benefits in times of crisis. Religiosity, social integration, and changes in subjective well-being during the early stages of the COVID-19 pandemic in Germany"
