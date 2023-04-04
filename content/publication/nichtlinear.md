@@ -2,7 +2,7 @@
 title: "Hochreligiös und migrantenfreundlich? Der nichtlineare Zusammenhang zwischen Religiosität und Fremdenfeindlichkeit in Deutschland"
 authors:
 - admin
-date: "2022-04-13"
+date: "2023-04-04"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -15,12 +15,12 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Kölner Zeitschrift für Soziologie und Sozialpsychologie"
+publication: "Zeitschrift für Religion, Gesellschaft und Politik"
 publication_short: ""
 
-abstract: Der Beitrag greift die in der bisherigen Forschung verbreitete Immunisierungshypothese auf, nach der christliche Religiosität vor der Wahl rechtspopulistischer Parteien schützt, und entwickelt eine alternative Lesart für diesen Zusammenhang. Dazu wird auf Basis der „German Longitudinal Election Study“ (GLES) von 2015 und 2017 und der „Allgemeinen Bevölkerungsumfrage der Sozialwissenschaften“ (ALLBUS) von 2018 eine Binnendifferenzierung der christlichen Wählerschaft vorgenommen. Im Mittelpunkt stehen nicht gängige Dimensionen von Religiosität, sondern der Religionsanspruch der Christen. Es wird vermutet, dass christliche Wähler mit exklusivem Religionsanspruch im Vergleich zu denjenigen mit inklusivem Religionsanspruch häufiger rechtspopulistischen Parteien ihre Stimme geben und dass dafür die ausgeprägteren rechtspopulistischen Positionen von Christen mit exklusivem Religionsanspruch verantwortlich zeichnen. Theoretisch begründet werden diese Annahmen in vier Schritten. Erstens wird eine wahrgenommene Bedrohung unter der christlichen Wählerschaft mit exklusivem Religionsanspruch diagnostiziert. Zweitens werden Mobilisierungsargumente rechtspopulistischer Parteien identifiziert, die eine Antwort auf diese Bedrohungswahrnehmung geben können. Drittens werden Wechselwirkungen zwischen religiösen und politischen Weltanschauungen erläutert, die nahelegen, dass ein exklusiver Religionsanspruch und rechtspopulistische Positionen über die Funktion der Nomisierung verbunden sind. Zuletzt kann die Übersetzung rechtspopulistischer Positionen in die Wahl rechtspopulistischer Parteien plausibilisiert werden. Empirisch lassen sich sowohl Belege für den Zusammenhang von Religionsanspruch und der Wahl rechtspopulistischer Parteien als auch die vermittelnde Wirkung rechtspopulistischer Positionen finden. Damit zeigt sich, dass Religiosität bei Vorliegen eines inklusiven Religionsanspruchs immunisierend, aber im Falle eines exklusiven Religionsanspruchs eben auch katalysierend auf die Wahl rechtspopulistischer Parteien wirken kann. Dies deutet auf eine Verschiebung relevanter Konfliktlinien in der deutschen Wählerschaft hin.
+abstract: Der Artikel widmet sich dem Zusammenhang von Religiosität und Fremdenfeindlichkeit in Deutschland und stellt die in bisheriger Forschung dominante Annahme infrage, zwischen den beiden Konstrukten herrsche ein linearer Zusammenhang. Stattdessen werden theoretische Argumente für einen nichtlinearen Zusammenhang zwischen Religiosität und Fremdenfeindlichkeit präsentiert. Die Sonderrolle hochreligiöser Christinnen und Christen, also ihr erhöhtes Niveau an fremdenfeindlichen Einstellungen, wird über die wahrgenommene Benachteiligung der Eigengruppe gegenüber Eingewanderten begründet. Durch die Bezugnahme auf die Theorie sozialer Produktionsfunktionen kann die Argumentation zudem in einen allgemeinen theoretischen Rahmen eingebettet werden. Auf Basis der „Allgemeinen Bevölkerungsumfrage der Sozialwissenschaften“ (ALLBUS) aus den Jahren 2006 bis 2021 wird der vermutete nichtlineare Zusammenhang untersucht. Es zeigt sich empirisch, dass in Ostdeutschland eine lineare, in Westdeutschland jedoch eine nichtlineare Verknüpfung zwischen Religiosität und Fremdenfeindlichkeit vorliegt. Während im ostdeutschen Kontext ein Mehr an Religiosität mit einem geringeren Niveau fremdenfeindlicher Einstellungen einhergeht, zeigt sich im westdeutschen Kontext, dass Hochreligiöse von der Linearitätsannahme früherer Forschung abweichen, also mitnichten migrantenfreundlich, sondern vergleichsweise migrantenfeindlich sind. Abschließend werden die Kontextspezifität der Ergebnisse sowie deren Verallgemeinerbarkeit diskutiert.
 
-summary: "Kölner Zeitschrift für Soziologie und Sozialpsychologie"
+summary: "Zeitschrift für Religion, Gesellschaft und Politik"
 
 tags:
 - Source Themes
