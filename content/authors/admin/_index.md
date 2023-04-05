@@ -18,7 +18,7 @@ organizations:
   url: "https://en.kfn.de/kfn/institute/researcher/dr-jan-philip-steinmann/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Head of the Research Unit “Causes and developments of deviant behaviour” at the Criminological Research Institute of Lower Saxony (KFN), Germany
+bio: Head of the research unit “Aetiology of deviance” at the Criminological Research Institute of Lower Saxony (KFN), Germany
 
 # Interests:
 # -
