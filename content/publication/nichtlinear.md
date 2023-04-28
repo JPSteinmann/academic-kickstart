@@ -29,7 +29,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://doi.org/10.1007/s11577-022-00820-z
+url_pdf: https://doi.org/10.1007/s41682-023-00157-0
 url_code: ''
 url_dataset: ''
 url_poster: ''
