@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Jan-Philip Steinmann"
   organization_url = ""
-  title = "The Good, the Bad, and the Curvilinear. Revisiting the Link between Religion and Delinquency for Christian and Muslim Adolescents in Germany"
+  title = "The good, the bad, and the curvilinear. Revisiting the link between religion and delinquency for Christian and Muslim adolescents in Germany"
   url = ""
   certificate_url = ""
   date_start = "2023-05-08"
