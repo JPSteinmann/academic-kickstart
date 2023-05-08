@@ -21,6 +21,16 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Jan-Philip Steinmann"
   organization_url = ""
+  title = "The Good, the Bad, and the Curvilinear. Revisiting the Link between Religion and Delinquency for Christian and Muslim Adolescents in Germany"
+  url = ""
+  certificate_url = ""
+  date_start = "2023-05-08"
+  date_end = ""
+  description = "The aim of this data visualization is to illustrate the link between religion and delinquency for Christian and Muslim adolescents in Germany. The data are from more than 3,000 respondents of the German part of the “Children of Immigrants Longitudinal Survey in Four European Countries” (CILS4EU-DE) study. A multidimensional analysis of religion and delinquency shows both (positive and negative) linear and curvilinear patterns as well as null findings. The results confirm the largely protective role of religion for delinquency found by previous research, but they also highlight the complexity behind the religion-delinquency link. Based on these heterogeneous results, three conclusions are drawn: Future research on the religion-delinquency link should be conducted to develop theoretically driven analyses, test for nonlinearity, and investigate mechanisms and conditions."
+
+[[item]]
+  organization = "Jan-Philip Steinmann"
+  organization_url = ""
   title = "Faithful and fearful. Does religion promote or reduce fear of crime in Germany?"
   url = ""
   certificate_url = ""
