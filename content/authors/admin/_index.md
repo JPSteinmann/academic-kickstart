@@ -74,4 +74,4 @@ I hold a doctoral degree from the University of Goettingen, Germany. I have been
 
 My work appeared in several journals including International Migration Review, Journal of Ethnic and Migration Studies, and Kölner Zeitschrift für Soziologie und Sozialpsychologie.
 
-I am a reviewer for several journals, such as Ethnicities, European Sociological Review, Frontiers in Sociology, International Migration Review, Journal of Ethnic and Migration Studies, Journal of Immigrant & Refugee Studies, Migration Studies, Nordic Journal of Migration Research, Race and Social Problems, Social Science Research, Zeitschrift für Religion, Gesellschaft und Politik, and Zeitschrift für Soziologie.
+I am a reviewer for several journals, such as Ethnicities, European Sociological Review, Frontiers in Sociology, International Migration Review, Journal of Ethnic and Migration Studies, Journal of Immigrant & Refugee Studies, Migration Studies, Nordic Journal of Migration Research, Political Psychology, Race and Social Problems, Social Science Research, Zeitschrift für Religion, Gesellschaft und Politik, and Zeitschrift für Soziologie.
