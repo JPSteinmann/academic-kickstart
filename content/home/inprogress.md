@@ -29,6 +29,16 @@ date_format = "Jan 2006"
   description = "A large body of literature highlights the benefits of being religious in terms of subjective well-being. We examine changes to these so-called religious well-being benefits during the early stages of the COVID-19 pandemic in Germany and address the role of (formal and informal) social integration when explaining these changes. We empirically test two contrasting scenarios: The first scenario predicts a decrease in religious well-being benefits (convergence hypothesis), while the second scenario predicts an increase in religious well-being benefits (divergence hypothesis). We adopt a potential outcomes framework and apply marginal structural models and inverse probability of treatment weighting to nationally representative, longitudinal data including both pre- and during-pandemic periods, Thereby, we show that initial religious well-being benefits declined during the early stages of the COVID-19 pandemic in Germany. This decline was partly due to religious individuals’ perception of decreasing social integration. Our results challenge the widespread idea that religious individuals are better protected against crises."
 
 [[item]]
+  organization = "Julia Rüdel, Jan-Philip Steinmann"
+  organization_url = ""
+  title = "‘With a little help from my educated friends’: Revisiting the role of social capital for immigrants’ labour market integration in Germany"
+  url = ""
+  certificate_url = ""
+  date_start = "2022-06-29"
+  date_end = ""
+  description = "This article examines the link between immigrants’ social capital and their labour market integration in Germany and is dedicated to contributing to previous research in two ways. First, based on insights of theories of social capital and immigrant integration, we overcome the mere distinction between inter- and intra-ethnic ties. Instead, we approximate resources immigrants can access and mobilize by considering the ethnic and the social composition of their networks. Second, by using autoregressive cross-lagged panel models, we properly deal with the methodological challenge of endogeneity inherent to studies concerned with the relation between social capital and labour market outcomes. Based on longitudinal data of the German Socio-Economic Panel (SOEP) the empirical findings indicate the necessity to consider both immigrants’ ethnic and social composition of their networks—as both have independent effects on immigrants’ labour market integration. We conclude that instead of treating immigrants’ social capital as unidimensional, future research might deploy a multidimensional perspective, considering that ethnicity and social position of immigrants’ contacts seem to matter for labour market outcomes."
+
+[[item]]
   organization = "Jan-Philip Steinmann"
   organization_url = ""
   title = "The good, the bad, and the curvilinear. Revisiting the link between religion and delinquency for Christian and Muslim adolescents in Germany"
@@ -57,15 +67,5 @@ date_format = "Jan 2006"
   date_start = "2022-09-22"
   date_end = ""
   description = "In this article, we contribute to the question on how cross-national differences in misperceptions of the foreign-born population size come about by adding national discourses on immigration to the explanation. We provide theoretical reasoning why such discourses articulated by politics and media should have an effect on individual (mis)perceptions. Thereby, we differentiate between salience and valence of national discourses and consider the interplay between such discourses and individuals’ actual exposure to political and media debates. Based on 2014 European Social Survey (ESS) data, multilevel analyses are conducted. Empirical findings indicate that mere salience of national discourses on immigration is not decisive when explaining (mis)perceptions of the foreign-born population size. Instead, overestimating the number of foreign-born people is less likely to occur when discourse by politicians is more inclusive towards immigrants. However, such discourses may also lead to more pronounced underestimation. Effects of immigration-related national discourse on individual misperceptions are not conditional on people’s exposure to politics and media. We conclude that politicians may prevent Europeans’ overestimation of the foreign-born population size by addressing immigration in a positive way."
-
-[[item]]
-  organization = "Julia Rüdel, Jan-Philip Steinmann"
-  organization_url = ""
-  title = "‘With a little help from my educated friends’: Revisiting the role of social capital for immigrants’ labour market integration in Germany"
-  url = ""
-  certificate_url = ""
-  date_start = "2022-05-22"
-  date_end = ""
-  description = "This article examines the link between immigrants’ social capital and their labour market integration in Germany and is dedicated to contributing to previous research in two ways. First, based on insights of theories of social capital and immigrant integration, we overcome the mere distinction between inter- and intra-ethnic ties. Instead, we approximate resources immigrants can access and mobilize by considering the ethnic and the social composition of their networks. Second, by using autoregressive cross-lagged panel models, we properly deal with the methodological challenge of endogeneity inherent to studies concerned with the relation between social capital and labour market outcomes. Based on the German Socio-Economic Panel (SOEP) the empirical findings indicate the necessity to consider both immigrants’ ethnic and social composition of their networks—since a contact’s social position partially mediates the effect of a contact’s ethnicity on immigrants’ labour market integration. We conclude that instead of treating immigrants’ social capital as unidimensional, future research might deploy a multidimensional perspective, considering that the ethnicity and the social position of immigrants’ contacts seem to matter for their labour market outcomes."
 
 +++
