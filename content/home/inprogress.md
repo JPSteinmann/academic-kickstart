@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Jan-Philip Steinmann"
+  organization = "Jan-Philip Steinmann, Gert Pickel"
   organization_url = ""
   title = "Explaining the relationship between religiosity and anti-diversity attitudes among Christians in West Germany"
   url = ""
