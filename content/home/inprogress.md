@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   title = "Explaining the relationship between religiosity and anti-diversity attitudes among Christians in West Germany"
   url = ""
   certificate_url = ""
-  date_start = "2023-10-23"
+  date_start = "2023-11-08"
   date_end = ""
   description = "Research on whether religiosity promotes or reduces prejudice has produced plenty of paradoxical findings. In this article we address the relationship between religiosity and anti-diversity attitudes (xenophobia and homophobia) among Christians in West Germany. We ask what the relationship between religiosity and anti-diversity attitudes is and how it can be explain. Two (complementary) theoretical explanations are presented: the religious-ideology explanation emphasizes the role of fundamentalism, and the loss-of-privileges explanation underscores the importance of perceived disadvantage. Our analysis is based on a representative sample of Christians in West Germany and provides evidence of a curvilinear religiosity-prejudice relationship. Up to a certain level of religiosity, xenophobia and homophobia decrease as religiosity increases; however, the relationship then reverses—anti-diversity attitudes are particularly pronounced among the highly religious. The level of xenophobia among the highly religious is fully explained by fundamentalism and perceived disadvantage, whereas their level of homophobia is only partially explained."
 
