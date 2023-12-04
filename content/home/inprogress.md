@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Jan-Philip Steinmann"
+  organization_url = ""
+  title = "Faithful and fearful. Does religion promote or reduce fear of crime in Germany?"
+  url = ""
+  certificate_url = ""
+  date_start = "2023-12-04"
+  date_end = ""
+  description = "This article complements existing victimological studies on religion by investigating whether religion promotes or reduces fear of crime in Germany. According to the generalized insecurity approach and the theory of social production functions, religion and fear of crime are linked via secularization-induced diffuse insecurities. It is expected that different facets of religion are tied to fearing crime in different ways because the projection of secularization-induced diffuse insecurities occurs only among those individuals whose religious capital is devaluated. Empirical analyses of data from the 2021 German General Social Survey (GGSS) reveal that some religious minority groups are particularly likely to fear crime, religious belief is positively related to fearing crime, and religious behavior is negatively associated with fearing crime. Additionally, religion can promote fear of crime equally in East and West Germany. In conclusion, the study emphasizes the significance of religion in relation to the fear of crime and underscores the benefits of a general theoretical approach."
+
+[[item]]
   organization = "Jan-Philip Steinmann, Gert Pickel"
   organization_url = ""
   title = "Explaining the relationship between religiosity and anti-diversity attitudes among Christians in West Germany"
@@ -57,16 +67,6 @@ date_format = "Jan 2006"
   date_start = "2023-05-08"
   date_end = ""
   description = "The aim of this data visualization is to illustrate the link between religion and delinquency for Christian and Muslim adolescents in Germany. The data are from more than 3,000 respondents of the German part of the “Children of Immigrants Longitudinal Survey in Four European Countries” (CILS4EU-DE) study. A multidimensional analysis of religion and delinquency shows both (positive and negative) linear and curvilinear patterns as well as null findings. The results confirm the largely protective role of religion for delinquency found by previous research, but they also highlight the complexity behind the religion-delinquency link. Based on these heterogeneous results, three conclusions are drawn: Future research on the religion-delinquency link should be conducted to develop theoretically driven analyses, test for nonlinearity, and investigate mechanisms and conditions."
-
-[[item]]
-  organization = "Jan-Philip Steinmann"
-  organization_url = ""
-  title = "Faithful and fearful. Does religion promote or reduce fear of crime in Germany?"
-  url = ""
-  certificate_url = ""
-  date_start = "2023-03-01"
-  date_end = ""
-  description = "This article complements existing victimological studies on religion by investigating whether religion promotes or reduces fear of crime in Germany. According to the generalized insecurity approach and the theory of social production functions, religion and fear of crime are linked via secularization-induced diffuse insecurities. It is expected that different facets of religion are tied to fearing crime in different ways because the projection of secularization-induced diffuse insecurities occurs only among those individuals whose religious capital is devaluated. Based on empirical analyses of data from the 2021 German General Social Survey (GGSS), there is evidence that some religious minority groups are particularly likely to fear crime, religious belief is positively related to fearing crime, religious behavior is negatively associated with fearing crime, and religion can promote fear of crime equally in East and West Germany. In conclusion, the study shows the importance of religion for the fear of crime and highlights the advantages of a general theoretical approach."
 
 [[item]]
   organization = "Jan-Philip Steinmann, Marcel Lubbers"
