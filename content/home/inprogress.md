@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Julia Rüdel, Jan-Philip Steinmann"
+  organization_url = ""
+  title = "‘With a little help from my educated friends’: Revisiting the role of social capital for immigrants’ labour market integration in Germany"
+  url = ""
+  certificate_url = ""
+  date_start = "2023-12-18"
+  date_end = ""
+  description = "This article examines the link between immigrants’ social capital and their labour market access (employment) and success (occupational status) in Germany and contributes to previous research in two ways. Firstly, based on insights from theories of social capital and immigrant integration, we overcome the mere distinction between inter- and intra-ethnic ties. Instead, we approximate resources immigrants can access and mobilize by considering both the ethnic and socioeconomic compositions of their networks. Secondly, by using autoregressive cross-lagged panel models, we properly deal with the methodological challenge of endogeneity inherent to studies concerned with the relationship between social capital and labour market outcomes. Based on longitudinal data from the German Socio-Economic Panel (SOEP) the empirical findings indicate the necessity of considering both the ethnic and socioeconomic compositions of immigrants’ networks—as both have independent effects on immigrants’ labour market integration. We conclude that future research on the relationship between immigrants’ social capital and their economic integration may benefit from approximating resources available through social contacts by considering not only the ethnic dimension but also the socioeconomic dimension of contacts."
+
+[[item]]
   organization = "Jan-Philip Steinmann"
   organization_url = ""
   title = "Faithful and fearful. Does religion promote or reduce fear of crime in Germany?"
@@ -47,16 +57,6 @@ date_format = "Jan 2006"
   date_start = "2023-08-02"
   date_end = ""
   description = "A large body of literature highlights the benefits of being religious in terms of subjective well-being. We examine changes to these so-called religious well-being benefits during the early stages of the COVID-19 pandemic in Germany and address the role of (formal and informal) social integration when explaining these changes. We empirically test two contrasting scenarios: The first scenario predicts a decrease in religious well-being benefits (convergence hypothesis), while the second scenario predicts an increase in religious well-being benefits (divergence hypothesis). We adopt a potential outcomes framework and apply marginal structural models and inverse probability of treatment weighting to nationally representative, longitudinal data including both pre- and during-pandemic periods, Thereby, we show that initial religious well-being benefits declined during the early stages of the COVID-19 pandemic in Germany. This decline was partly due to religious individuals’ perception of decreasing social integration. Our results challenge the widespread idea that religious individuals are better protected against crises."
-
-[[item]]
-  organization = "Julia Rüdel, Jan-Philip Steinmann"
-  organization_url = ""
-  title = "‘With a little help from my educated friends’: Revisiting the role of social capital for immigrants’ labour market integration in Germany"
-  url = ""
-  certificate_url = ""
-  date_start = "2023-06-29"
-  date_end = ""
-  description = "This article examines the link between immigrants’ social capital and their labour market integration in Germany and is dedicated to contributing to previous research in two ways. First, based on insights of theories of social capital and immigrant integration, we overcome the mere distinction between inter- and intra-ethnic ties. Instead, we approximate resources immigrants can access and mobilize by considering the ethnic and the social composition of their networks. Second, by using autoregressive cross-lagged panel models, we properly deal with the methodological challenge of endogeneity inherent to studies concerned with the relation between social capital and labour market outcomes. Based on longitudinal data of the German Socio-Economic Panel (SOEP) the empirical findings indicate the necessity to consider both immigrants’ ethnic and social composition of their networks—as both have independent effects on immigrants’ labour market integration. We conclude that instead of treating immigrants’ social capital as unidimensional, future research might deploy a multidimensional perspective, considering that ethnicity and social position of immigrants’ contacts seem to matter for labour market outcomes."
 
 [[item]]
   organization = "Jan-Philip Steinmann"
