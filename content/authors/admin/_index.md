@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral researcherX
+role: Postdoctoral researcher
 
 # Organizations/Affiliations
 organizations:
@@ -75,3 +75,6 @@ I hold a doctoral degree from the University of Goettingen, Germany. I have been
 My work appeared in several journals including International Migration Review, Journal of Ethnic and Migration Studies, and Kölner Zeitschrift für Soziologie und Sozialpsychologie.
 
 I am a reviewer for several journals, such as Ethnicities, European Journal of Criminology, European Sociological Review, Frontiers in Sociology, International Migration Review, Journal of Ethnic and Migration Studies, Journal of Immigrant & Refugee Studies, Migration Studies, Nordic Journal of Migration Research, Political Psychology, Race and Social Problems, Social Science Research, Zeitschrift für Religion, Gesellschaft und Politik, and Zeitschrift für Soziologie.
+
+You can see {{% staticref "static/files/CV.pdf" "newtab" %}}my CV here.{{% /staticref %}}
+
