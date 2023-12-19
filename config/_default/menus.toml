@@ -33,5 +33,5 @@
 
 [[main]]
     name = "CV"
-    url = "static/files/Steinmann_CV_2023.pdf"
+    url = "static/Steinmann_CV_2023.pdf"
     weight = 60
