@@ -68,7 +68,9 @@ user_groups:
 - Visitors
 ---
 
-My name is Jan-Philip Steinmann and I am head of the research unit "Aetiology of Deviance" at the Criminological Research Institute of Lower Saxony (KFN) and affiliated postdoctoral researcher at the Research Institute Social Cohesion (RISC) at the University of Bremen, Germany. I consider myself a sociologist, on the edge of cultural sociology and social structure analysis. My research interests, in the broadest sense, relate to causes and consequences of (decreasing or increasing) social cohesion. Thereby, I mainly focus on social inequalities, migration processes and immigrants’ integration, right-wing populism, and deviant behavior. Across all these topics, I investigate paradoxical effects of religion. Although I am mostly using quantitative empirical methods, I am also conducting mixed methods research.
+My name is Jan-Philip Steinmann and I am head of the research unit "Aetiology of Deviance" at the Criminological Research Institute of Lower Saxony ({{% staticref "https://kfn.de/" "newtab" %}}KFN{{% /staticref %}}) and affiliated postdoctoral researcher at the Research Institute Social Cohesion (RISC) at the University of Bremen, Germany. I consider myself a sociologist, on the edge of cultural sociology and social structure analysis. My research interests, in the broadest sense, relate to causes and consequences of (decreasing or increasing) social cohesion. Thereby, I mainly focus on social inequalities, migration processes and immigrants’ integration, right-wing populism, and deviant behavior. Across all these topics, I investigate paradoxical effects of religion. Although I am mostly using quantitative empirical methods, I am also conducting mixed methods research.
+
+You can see {{% staticref "https://kfn.de/" "newtab" %}}my CV here.{{% /staticref %}}
 
 I hold a doctoral degree from the University of Goettingen, Germany. I have been visiting student/researcher at Utrecht University and the Netherlands Interdisciplinary Demographic Institute (NIDI) in The Hague.
 
