@@ -29,16 +29,6 @@ date_format = "Jan 2006"
   description = "This article examines the link between immigrants’ social capital and their labour market access (employment) and success (occupational status) in Germany and contributes to previous research in two ways. Firstly, based on insights from theories of social capital and immigrant integration, we overcome the mere distinction between inter- and intra-ethnic ties. Instead, we approximate resources immigrants can access and mobilize by considering both the ethnic and socioeconomic compositions of their networks. Secondly, by using autoregressive cross-lagged panel models, we properly deal with the methodological challenge of endogeneity inherent to studies concerned with the relationship between social capital and labour market outcomes. Based on longitudinal data from the German Socio-Economic Panel (SOEP) the empirical findings indicate the necessity of considering both the ethnic and socioeconomic compositions of immigrants’ networks—as both have independent effects on immigrants’ labour market integration. We conclude that future research on the relationship between immigrants’ social capital and their economic integration may benefit from approximating resources available through social contacts by considering not only the ethnic dimension but also the socioeconomic dimension of contacts."
 
 [[item]]
-  organization = "Jan-Philip Steinmann"
-  organization_url = ""
-  title = "Faithful and fearful. Does religion promote or reduce fear of crime in Germany?"
-  url = ""
-  certificate_url = ""
-  date_start = "2023-12-04"
-  date_end = ""
-  description = "This article complements existing victimological studies on religion by investigating whether religion promotes or reduces fear of crime in Germany. According to the generalized insecurity approach and the theory of social production functions, religion and fear of crime are linked via secularization-induced diffuse insecurities. It is expected that different facets of religion are tied to fearing crime in different ways because the projection of secularization-induced diffuse insecurities occurs only among those individuals whose religious capital is devaluated. Empirical analyses of data from the 2021 German General Social Survey (GGSS) reveal that some religious minority groups are particularly likely to fear crime, religious belief is positively related to fearing crime, and religious behavior is negatively associated with fearing crime. Additionally, religion can promote fear of crime equally in East and West Germany. In conclusion, the study emphasizes the significance of religion in relation to the fear of crime and underscores the benefits of a general theoretical approach."
-
-[[item]]
   organization = "Jan-Philip Steinmann, Gert Pickel"
   organization_url = ""
   title = "Explaining the relationship between religiosity and anti-diversity attitudes among Christians in West Germany"
