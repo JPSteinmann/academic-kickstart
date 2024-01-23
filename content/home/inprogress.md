@@ -19,16 +19,6 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Julia Rüdel, Jan-Philip Steinmann"
-  organization_url = ""
-  title = "‘With a little help from my educated friends’: Revisiting the role of social capital for immigrants’ labour market integration in Germany"
-  url = ""
-  certificate_url = ""
-  date_start = "2023-12-18"
-  date_end = ""
-  description = "This article examines the link between immigrants’ social capital and their labour market access (employment) and success (occupational status) in Germany and contributes to previous research in two ways. Firstly, based on insights from theories of social capital and immigrant integration, we overcome the mere distinction between inter- and intra-ethnic ties. Instead, we approximate resources immigrants can access and mobilize by considering both the ethnic and socioeconomic compositions of their networks. Secondly, by using autoregressive cross-lagged panel models, we properly deal with the methodological challenge of endogeneity inherent to studies concerned with the relationship between social capital and labour market outcomes. Based on longitudinal data from the German Socio-Economic Panel (SOEP) the empirical findings indicate the necessity of considering both the ethnic and socioeconomic compositions of immigrants’ networks—as both have independent effects on immigrants’ labour market integration. We conclude that future research on the relationship between immigrants’ social capital and their economic integration may benefit from approximating resources available through social contacts by considering not only the ethnic dimension but also the socioeconomic dimension of contacts."
-
-[[item]]
   organization = "Jan-Philip Steinmann, Gert Pickel"
   organization_url = ""
   title = "Explaining the relationship between religiosity and anti-diversity attitudes among Christians in West Germany"
