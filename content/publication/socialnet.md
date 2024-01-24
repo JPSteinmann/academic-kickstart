@@ -1,7 +1,7 @@
 ---
 title: "‘With a little help from my educated friends’: revisiting the role of social capital for immigrants’ labour market integration in Germany"
 authors:
-- admin
+- [Julia Rüdel, admin]
 date: "2024-01-18"
 doi: ""
 
