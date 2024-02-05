@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Jan-Philip Steinmann"
+  organization_url = ""
+  title = "Has immigration slowed down secularization in Germany? Empirical evidence from 2014 to 2021"
+  url = ""
+  certificate_url = ""
+  date_start = "2024-02-05"
+  date_end = ""
+  description = "The aim of this data visualization is to answer the question whether immigration has acted as a counter-secularization force in Germany in recent years. The hypothesis is based on the tendency of first- and second-generation immigrants to exhibit higher levels of religiosity compared to the host populations. Simulation analysis involving more than 15,000 respondents of data from the 2014 to 2021 “German General Social Survey” (GGSS) indicates that the increase in the immigrant population during this period does not emerge as a substantial counterforce to religious decline in both East and West Germany. An effective slowdown in secularization in Germany would have required a more substantial increase in immigration and a notably higher level of religious engagement among new arrivals and their descendants than was observed."
+
+[[item]]
   organization = "Jan-Philip Steinmann, Gert Pickel"
   organization_url = ""
   title = "Explaining the relationship between religiosity and anti-diversity attitudes among Christians in West Germany"
@@ -37,16 +47,6 @@ date_format = "Jan 2006"
   date_start = "2023-08-02"
   date_end = ""
   description = "A large body of literature highlights the benefits of being religious in terms of subjective well-being. We examine changes to these so-called religious well-being benefits during the early stages of the COVID-19 pandemic in Germany and address the role of (formal and informal) social integration when explaining these changes. We empirically test two contrasting scenarios: The first scenario predicts a decrease in religious well-being benefits (convergence hypothesis), while the second scenario predicts an increase in religious well-being benefits (divergence hypothesis). We adopt a potential outcomes framework and apply marginal structural models and inverse probability of treatment weighting to nationally representative, longitudinal data including both pre- and during-pandemic periods, Thereby, we show that initial religious well-being benefits declined during the early stages of the COVID-19 pandemic in Germany. This decline was partly due to religious individuals’ perception of decreasing social integration. Our results challenge the widespread idea that religious individuals are better protected against crises."
-
-[[item]]
-  organization = "Jan-Philip Steinmann"
-  organization_url = ""
-  title = "The good, the bad, and the curvilinear. Revisiting the link between religion and delinquency for Christian and Muslim adolescents in Germany"
-  url = ""
-  certificate_url = ""
-  date_start = "2023-05-08"
-  date_end = ""
-  description = "The aim of this data visualization is to illustrate the link between religion and delinquency for Christian and Muslim adolescents in Germany. The data are from more than 3,000 respondents of the German part of the “Children of Immigrants Longitudinal Survey in Four European Countries” (CILS4EU-DE) study. A multidimensional analysis of religion and delinquency shows both (positive and negative) linear and curvilinear patterns as well as null findings. The results confirm the largely protective role of religion for delinquency found by previous research, but they also highlight the complexity behind the religion-delinquency link. Based on these heterogeneous results, three conclusions are drawn: Future research on the religion-delinquency link should be conducted to develop theoretically driven analyses, test for nonlinearity, and investigate mechanisms and conditions."
 
 [[item]]
   organization = "Jan-Philip Steinmann, Marcel Lubbers"
