@@ -1,7 +1,6 @@
 ---
 title: "Cool Minds in Heated Debates? Migration-related Attitudes in Germany Before and After a Natural Intervention"
-authors:
-- Claudia Diehl, admin
+authors: [Claudia Diehl, admin]
 date: "2012-04-30"
 doi: ""
 
