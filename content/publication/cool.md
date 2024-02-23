@@ -29,7 +29,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://doi.org/10.1186/s40878-024-00366-3
+url_pdf: https://doi.org/10.4119/ijcv-2935
 url_code: ''
 url_dataset: ''
 url_poster: ''
