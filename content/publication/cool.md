@@ -17,7 +17,7 @@ publication_types: ["2"]
 publication: "International Journal of Conflict and Violence"
 publication_short: ""
 
-abstract: Data from the Transatlantic Trends: Immigration survey was used to investigate whether the debate surrounding Thilo Sarrazin’s immigration-skeptical Deutschland schafft sich ab (Germany abolishes itself) had any impact on migration-related attitudes in Germany. The book was published in August 2010 and fieldwork took place during the evolving debate, providing a unique opportunity to study the impact of a major media event on public attitudes. Descriptive findings on the aggregate level show no substantial change in migration-related attitudes in the months after publication. More detailed findings reveal a significant increase in skepticism only for respondents with low levels of education, whose assessment of Muslim migrants’ integration became more negative during the debate. There are two possible reasons for the lack of more substantial attitudinal change. Firstly, the debate was highly polarized and lacked the consonant national media coverage that is an important precondition for media effects on public opinion. Secondly, there were no additional “external shocks” prior to the book’s release, such as a high levels of immigration, that could have made the public more susceptible to criticism of the impact of migration.
+abstract: XXX
 
 # Summary. An optional shortened abstract.
 summary: "International Journal of Conflict and Violence"
