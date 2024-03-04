@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Jan-Philip Steinmann, Gert Pickel"
+  organization_url = ""
+  title = "Explaining the relationship between religiosity and anti-diversity attitudes among Christians in West Germany"
+  url = ""
+  certificate_url = ""
+  date_start = "2024-03-04"
+  date_end = ""
+  description = "Research on whether religiosity promotes or reduces prejudice has produced plenty of paradoxical findings. In this article we address the relationship between religiosity and anti-diversity attitudes (xenophobia and homophobia) among Christians in West Germany. We ask what the relationship between religiosity and anti-diversity attitudes is and how it can be explained. Two (complementary) theoretical explanations are presented: the religious-ideology explanation emphasizes the role of fundamentalism, and the loss-of-privileges explanation underscores the importance of perceived disadvantage. Our analysis is based on a representative sample of Christians in West Germany and provides evidence of a curvilinear religiosity-prejudice relationship. Up to a certain level of religiosity, xenophobia and homophobia decrease as religiosity increases; however, the relationship then reverses—anti-diversity attitudes are particularly pronounced among the highly religious. The level of xenophobia among the highly religious is fully explained by fundamentalism and perceived disadvantage, whereas their level of homophobia is only partially explained."
+
+[[item]]
   organization = "Jan-Philip Steinmann"
   organization_url = ""
   title = "Has immigration slowed down secularization in Germany? Empirical evidence from 2014 to 2021"
@@ -27,16 +37,6 @@ date_format = "Jan 2006"
   date_start = "2024-02-05"
   date_end = ""
   description = "The aim of this data visualization is to answer the question whether immigration has acted as a counter-secularization force in Germany in recent years. The hypothesis is based on the tendency of first- and second-generation immigrants to exhibit higher levels of religiosity compared to the host populations. Simulation analysis involving more than 15,000 respondents of data from the 2014 to 2021 “German General Social Survey” (GGSS) indicates that the increase in the immigrant population during this period does not emerge as a substantial counterforce to religious decline in both East and West Germany. An effective slowdown in secularization in Germany would have required a more substantial increase in immigration and a notably higher level of religious engagement among new arrivals and their descendants than was observed."
-
-[[item]]
-  organization = "Jan-Philip Steinmann, Gert Pickel"
-  organization_url = ""
-  title = "Explaining the relationship between religiosity and anti-diversity attitudes among Christians in West Germany"
-  url = ""
-  certificate_url = ""
-  date_start = "2023-11-08"
-  date_end = ""
-  description = "Research on whether religiosity promotes or reduces prejudice has produced plenty of paradoxical findings. In this article we address the relationship between religiosity and anti-diversity attitudes (xenophobia and homophobia) among Christians in West Germany. We ask what the relationship between religiosity and anti-diversity attitudes is and how it can be explained. Two (complementary) theoretical explanations are presented: the religious-ideology explanation emphasizes the role of fundamentalism, and the loss-of-privileges explanation underscores the importance of perceived disadvantage. Our analysis is based on a representative sample of Christians in West Germany and provides evidence of a curvilinear religiosity-prejudice relationship. Up to a certain level of religiosity, xenophobia and homophobia decrease as religiosity increases; however, the relationship then reverses—anti-diversity attitudes are particularly pronounced among the highly religious. The level of xenophobia among the highly religious is fully explained by fundamentalism and perceived disadvantage, whereas their level of homophobia is only partially explained."
 
 [[item]]
   organization = "Jan-Philip Steinmann, Theresa Entringer, Jörg Hartmann, Hannes Kröger"
