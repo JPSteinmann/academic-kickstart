@@ -6,7 +6,7 @@ title: Publications
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view: 5
+view: 7
 
 # Optional header image (relative to `static/img/` folder).
 header:
