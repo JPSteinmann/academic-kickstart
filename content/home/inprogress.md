@@ -17,6 +17,15 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[item]]
+  organization = "Jan-Philip Steinmann"
+  organization_url = ""
+  title = "Religiosität und Delinquenz unter christlichen und muslimischen Jugendlichen"
+  url = ""
+  certificate_url = ""
+  date_start = "2024-04-26"
+  date_end = ""
+  description = "Der Beitrag untersucht den Zusammenhang zwischen Religiosität und Jugenddelinquenz für christliche und muslimische Jugendliche und hinterfragt die Annahme einer negativen linearen Verknüpfung beider Konstrukte aus früherer Forschung. Stattdessen wird vermutet, dass eine delinquenzreduzierende Wirkung von Religiosität nur bis zu einem gewissen Grad an Religiosität vorhanden ist und sich anschließend in eine delinquenzsteigernde Wirkung verkehren sollte, sodass insgesamt von einer u-förmigen Beziehung zwischen Religiosität und Jugenddelinquenz auszugehen ist. Zur Untermauerung dieser Vermutung werden theoretische Perspektiven vorgestellt, die einerseits eine delinquenzreduzierende (soziale Kontrolle, Lernprozesse, Umgang mit Belastungen) und andererseits eine delinquenzsteigernde Wirkung von Religiosität (Fundamentalismus, wahrgenommene Benachteiligung) plausibilisieren. Basierend auf einer Befragung von Jugendlichen der neunten Jahrgangsstufe an niedersächsischen Schulen aus dem Jahr 2022 wird das Vorliegen einer u-förmigen Beziehung zwischen Religiosität und Jugenddelinquenz überprüft. Empirisch zeigt sich, dass zwischen Religiosität und Gewaltdelikten eine kurvilineare, zwischen Religiosität und Eigentumsdelikten jedoch eine lineare Verknüpfung besteht. Diese Befunde gelten sowohl für christliche als auch muslimische Jugendliche. Abschließend werden die Verallgemeinerbarkeit der Ergebnisse sowie die Limitationen des Beitrags diskutiert."
 
 [[item]]
   organization = "Jan-Philip Steinmann, Marcel Lubbers"
