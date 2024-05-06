@@ -1,6 +1,6 @@
 ---
 title: Explaining the relationship between religiosity and anti-diversity attitudes among Christians in West Germany
-event: Annual Conference International Migration, Integration and Social Cohesion (IMISCOE)
+event: Annual Conference International Migration Research Network (IMISCOE)
 event_url: https://www.imiscoe.org/conference/
 
 location: "Lisbon (hybrid)"
