@@ -46,8 +46,8 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.de/citations?user=TIeoVHsAAAAJ&hl=de&oi=ao
-- icon: bluesky
-  icon_pack: fa
+- icon: twitter
+  icon_pack: fab
   link: https://twitter.com/steinmann_jp
 - icon: researchgate
   icon_pack: ai
