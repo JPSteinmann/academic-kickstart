@@ -47,7 +47,7 @@ social:
   icon_pack: ai
   link: https://scholar.google.de/citations?user=TIeoVHsAAAAJ&hl=de&oi=ao
 - icon: bluesky
-  icon_pack: fas
+  icon_pack: fa
   link: https://twitter.com/steinmann_jp
 - icon: researchgate
   icon_pack: ai
