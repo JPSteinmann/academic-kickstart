@@ -19,14 +19,24 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Jan-Philip Steinmann"
+  organization = "Jan-Philip Steinmann, Gert Pickel"
   organization_url = ""
-  title = "Religiosität und Delinquenz unter christlichen und muslimischen Jugendlichen"
+  title = "Explaining the relationship between religiosity and anti-diversity attitudes among Christians in Western Germany"
   url = ""
   certificate_url = ""
-  date_start = "2024-04-26"
+  date_start = "2024-03-04"
   date_end = ""
-  description = "Der Beitrag untersucht den Zusammenhang zwischen Religiosität und Jugenddelinquenz für christliche und muslimische Jugendliche und hinterfragt die Annahme einer negativen linearen Verknüpfung beider Konstrukte aus früherer Forschung. Stattdessen wird vermutet, dass eine delinquenzreduzierende Wirkung von Religiosität nur bis zu einem gewissen Grad an Religiosität vorhanden ist und sich anschließend in eine delinquenzsteigernde Wirkung verkehren sollte, sodass insgesamt von einer u-förmigen Beziehung zwischen Religiosität und Jugenddelinquenz auszugehen ist. Zur Untermauerung dieser Vermutung werden theoretische Perspektiven vorgestellt, die einerseits eine delinquenzreduzierende (soziale Kontrolle, Lernprozesse, Umgang mit Belastungen) und andererseits eine delinquenzsteigernde Wirkung von Religiosität (Fundamentalismus, wahrgenommene Benachteiligung) plausibilisieren. Basierend auf einer Befragung von Jugendlichen der neunten Jahrgangsstufe an niedersächsischen Schulen aus dem Jahr 2022 wird das Vorliegen einer u-förmigen Beziehung zwischen Religiosität und Jugenddelinquenz überprüft. Empirisch zeigt sich, dass zwischen Religiosität und Gewaltdelikten eine kurvilineare, zwischen Religiosität und Eigentumsdelikten jedoch eine lineare Verknüpfung besteht. Diese Befunde gelten sowohl für christliche als auch muslimische Jugendliche. Abschließend werden die Verallgemeinerbarkeit der Ergebnisse sowie die Limitationen des Beitrags diskutiert."
+  description = "Research on whether religiosity promotes or reduces prejudice has produced plenty of paradoxical findings. In this article we address the relationship between religiosity and anti-diversity attitudes (xenophobia and homophobia) among Christians in Western Germany. We ask what the relationship between religiosity and anti-diversity attitudes is and how it can be explained. Two (complementary) theoretical explanations are presented: the religious-ideology explanation emphasizes the role of fundamentalism, and the loss-of-privileges explanation underscores the importance of perceived disadvantage. Our analysis is based on a representative sample of Christians in Western Germany and provides evidence of a curvilinear religiosity-prejudice relationship. Up to a certain level of religiosity, xenophobia and homophobia decrease as religiosity increases; however, the relationship then reverses—anti-diversity attitudes are particularly pronounced among the highly religious. The level of xenophobia among the highly religious is fully explained by fundamentalism and perceived disadvantage, whereas their level of homophobia is only partially explained."
+
+[[item]]
+  organization = "Barbara Bergmann, Paulina Lutz, Jan-Philip Steinmann"
+  organization_url = ""
+  title = "A Mixed-Methods Study on Out-Group Hostility and Religiosity Among Muslim Inmates in German Youth Prisons. The Role of Religious Discrimination and Opportunity Structure"
+  url = ""
+  certificate_url = ""
+  date_start = "2024-05-08"
+  date_end = ""
+  description = "For incarcerated Muslims, prisons can become challenging environments due to the skepticism of liberal democracies towards Islamic values. The article addresses the perceived religious discrimination and the lack of religious opportunity structure among adolescent Muslim inmates. It examines how these religion-related in-prison experiences affect Muslim inmates’ hostility towards out-groups. Further, it investigates whether the link between religion-related in-prison experiences and out-group hostility depends on Muslim inmates’ religiosity. Building on the general strain theory, religion-related in-prison experiences are conceptualized as strainful events which may lead to out-group hostility. The coping literature is used to identify different dimensions of religiosity that should either strengthen or weaken the relationship of interest. Based on data from four German juvenile prisons, a mixed methods research design was applied. The qualitative data (N = 22) indicates that Muslim inmates do experience disadvantages concerning the opportunities to practice religion. However, they seem to be rather grateful than feeling discriminated against. Findings based on the quantitative data (N = 311) show that perceived religious discrimination was positively linked to out-group hostility, but the lack of religious opportunity structure was not. None of the dimensions of religiosity significantly moderated the association between perceived religious discrimination and out-group hostility."
 
 [[item]]
   organization = "Jan-Philip Steinmann, Marcel Lubbers"
