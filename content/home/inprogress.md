@@ -21,12 +21,22 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Barbara Bergmann, Paulina Lutz, Jan-Philip Steinmann"
   organization_url = ""
-  title = "A mixed-methods study on out-group hostility and religiosity among Muslim inmates in German youth prisons. The role of religious discrimination and opportunity structure"
+  title = "A Mixed-Methods Study on Out-Group Hostility and Religiosity Among Muslim Inmates in German Youth Prisons: The Role of Religious Discrimination and Opportunity Structure"
   url = ""
   certificate_url = ""
-  date_start = "2024-05-08"
+  date_start = "2024-06-01"
   date_end = ""
-  description = "For incarcerated Muslims, prisons can become challenging environments due to the skepticism of liberal democracies towards Islamic values. The article addresses the perceived religious discrimination and the lack of religious opportunity structure among adolescent Muslim inmates. It examines how these religion-related in-prison experiences affect Muslim inmates’ hostility towards out-groups. Further, it investigates whether the link between religion-related in-prison experiences and out-group hostility depends on Muslim inmates’ religiosity. Building on the general strain theory, religion-related in-prison experiences are conceptualized as strainful events which may lead to out-group hostility. The coping literature is used to identify different dimensions of religiosity that should either strengthen or weaken the relationship of interest. Based on data from four German juvenile prisons, a mixed methods research design was applied. The qualitative data (N = 22) indicates that Muslim inmates do experience disadvantages concerning the opportunities to practice religion. However, they seem to be rather grateful than feeling discriminated against. Findings based on the quantitative data (N = 311) show that perceived religious discrimination was positively linked to out-group hostility, but the lack of religious opportunity structure was not. None of the dimensions of religiosity significantly moderated the association between perceived religious discrimination and out-group hostility."
+  description = "For incarcerated Muslims, prisons can be challenging environments due to liberal democracies’ skepticism regarding Islamic values. This article addresses the perceived religious discrimination and lack of religious opportunity structure among adolescent Muslim inmates. It examines how these religion-related prison experiences affect Muslim inmates’ hostility toward out-groups. Further, it investigates whether the link between religion-related prison experiences and out-group hostility depends on Muslim inmates’ religiosity. Building on the general strain theory, religion-related prison experiences are conceptualized as events disliked by individuals that may lead to out-group hostility. The coping literature is used to identify different dimensions of religiosity that can either strengthen or weaken the relationship of interest. Based on data from four German juvenile prisons, a mixed-methods research design was applied. The qualitative data (N = 22) indicates that Muslim inmates do experience disadvantages concerning opportunities to practice religion. However, they seem to feel grateful rather than discriminated against. Findings based on the quantitative data (N = 311) show that perceived religious discrimination was positively linked to out-group hostility, but lack of religious opportunity structure was not. None of the dimensions of religiosity significantly moderated the association between perceived religious discrimination and out-group hostility."
+
+[[item]]
+  organization = "Jan-Philip Steinmann, Marcel Lubbers"
+  organization_url = ""
+  title = "Misperceptions of the foreign-born population size in European societies. The role of immigration-related national discourses"
+  url = ""
+  certificate_url = ""
+  date_start = "2024-05-27"
+  date_end = ""
+  description = "In this article, we explore cross-national variations in misperceptions of the foreign-born population size in European societies. We provide theoretical reasoning why national discourses on immigration articulated by politics and media should influence individual (mis)perceptions. Differentiating between salience and valence of national discourses, we also examine their interplay with individuals’ actual exposure to political and media debates. The results of multilevel regression analyses using 2014 European Social Survey (ESS) data suggest that mere salience of national discourses on immigration is not decisive when explaining (mis)perceptions of the foreign-born population size. Regarding the valence of immigration-related national discourses, we identify an ambivalent role of political discourse that is more immigrant-friendly. In countries with inclusive discourse, overestimation of the number of foreign-born people is less likely to occur but also underestimation is more pronounced. Moreover, effects of national discourse on individual misperceptions are not conditional on people’s exposure to politics and media."
 
 [[item]]
   organization = "Jan-Philip Steinmann"
@@ -37,16 +47,6 @@ date_format = "Jan 2006"
   date_start = "2024-04-24"
   date_end = ""
   description = "Der Beitrag untersucht den Zusammenhang zwischen Religiosität und Jugenddelinquenz für christliche und muslimische Jugendliche und hinterfragt die Annahme einer negativen linearen Verknüpfung beider Konstrukte aus früherer Forschung. Stattdessen wird vermutet, dass eine delinquenzreduzierende Wirkung von Religiosität nur bis zu einem gewissen Grad an Religiosität vorhanden ist und sich anschließend in eine delinquenzsteigernde Wirkung verkehren sollte, sodass insgesamt von einer u-förmigen Beziehung zwischen Religiosität und Jugenddelinquenz auszugehen ist. Zur Untermauerung dieser Vermutung werden theoretische Perspektiven vorgestellt, die einerseits eine delinquenzreduzierende (soziale Kontrolle, Lernprozesse, Umgang mit Belastungen) und andererseits eine delinquenzsteigernde Wirkung von Religiosität (Fundamentalismus, wahrgenommene Benachteiligung) plausibilisieren. Basierend auf einer Befragung von Jugendlichen der neunten Jahrgangsstufe an niedersächsischen Schulen aus dem Jahr 2022 wird das Vorliegen einer u-förmigen Beziehung zwischen Religiosität und Jugenddelinquenz überprüft. Empirisch zeigt sich, dass zwischen Religiosität und Gewaltdelikten eine kurvilineare, zwischen Religiosität und Eigentumsdelikten jedoch eine lineare Verknüpfung besteht. Diese Befunde gelten sowohl für christliche als auch muslimische Jugendliche. Abschließend werden die Verallgemeinerbarkeit der Ergebnisse sowie die Limitationen des Beitrags diskutiert."
-
-[[item]]
-  organization = "Jan-Philip Steinmann, Marcel Lubbers"
-  organization_url = ""
-  title = "Misperceptions of the foreign-born population size in European societies. The role of immigration-related national discourses"
-  url = ""
-  certificate_url = ""
-  date_start = "2024-03-22"
-  date_end = ""
-  description = "In this article, we explore cross-national variations in misperceptions of the foreign-born population size in European societies. We provide theoretical reasoning why national discourses on immigration articulated by politics and media should influence individual (mis)perceptions. Differentiating between salience and valence of national discourses, we also examine their interplay with individuals’ actual exposure to political and media debates. The results of multilevel regression analyses using 2014 European Social Survey (ESS) data suggest that mere salience of national discourses on immigration is not decisive when explaining (mis)perceptions of the foreign-born population size. Regarding the valence of immigration-related national discourses, we identify an ambivalent role of political discourse that is more immigrant-friendly. In countries with inclusive discourse, overestimation of the number of foreign-born people is less likely to occur but also underestimation is more pronounced. Moreover, effects of national discourse on individual misperceptions are not conditional on people’s exposure to politics and media."
 
 [[item]]
   organization = "Jan-Philip Steinmann, Gert Pickel"
