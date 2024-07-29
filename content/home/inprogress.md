@@ -61,7 +61,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Jan-Philip Steinmann, Hannes Kröger, Jörg Hartmann, Theresa Entringer"
   organization_url = ""
-  title = ": Did religious well-being benefits converge or diverge during the early stages of the COVID-19 pandemic in Germany"
+  title = ": Did religious well-being benefits converge or diverge during the early stages of the COVID-19 pandemic in Germany?"
   url = ""
   certificate_url = ""
   date_start = "2023-08-02"
