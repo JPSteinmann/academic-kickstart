@@ -39,16 +39,6 @@ date_format = "Jan 2006"
   description = "In this article, we explore cross-national variations in misperceptions of the foreign-born population size in European societies. We provide theoretical reasoning why national discourses on immigration articulated by politics and media should influence individual (mis)perceptions. Differentiating between salience and valence of national discourses, we also examine their interplay with individuals’ actual exposure to political and media debates. The results of multilevel regression analyses using 2014 European Social Survey (ESS) data suggest that mere salience of national discourses on immigration is not decisive when explaining (mis)perceptions of the foreign-born population size. Regarding the valence of immigration-related national discourses, we identify an ambivalent role of political discourse that is more immigrant-friendly. In countries with inclusive discourse, overestimation of the number of foreign-born people is less likely to occur but also underestimation is more pronounced. Moreover, effects of national discourse on individual misperceptions are not conditional on people’s exposure to politics and media."
 
 [[item]]
-  organization = "Jan-Philip Steinmann"
-  organization_url = ""
-  title = "Religiosität und Delinquenz unter christlichen und muslimischen Jugendlichen"
-  url = ""
-  certificate_url = ""
-  date_start = "2024-04-24"
-  date_end = ""
-  description = "Der Beitrag untersucht den Zusammenhang zwischen Religiosität und Jugenddelinquenz für christliche und muslimische Jugendliche und hinterfragt die Annahme einer negativen linearen Verknüpfung beider Konstrukte aus früherer Forschung. Stattdessen wird vermutet, dass eine delinquenzreduzierende Wirkung von Religiosität nur bis zu einem gewissen Grad an Religiosität vorhanden ist und sich anschließend in eine delinquenzsteigernde Wirkung verkehren sollte, sodass insgesamt von einer u-förmigen Beziehung zwischen Religiosität und Jugenddelinquenz auszugehen ist. Zur Untermauerung dieser Vermutung werden theoretische Perspektiven vorgestellt, die einerseits eine delinquenzreduzierende (soziale Kontrolle, Lernprozesse, Umgang mit Belastungen) und andererseits eine delinquenzsteigernde Wirkung von Religiosität (Fundamentalismus, wahrgenommene Benachteiligung) plausibilisieren. Basierend auf einer Befragung von Jugendlichen der neunten Jahrgangsstufe an niedersächsischen Schulen aus dem Jahr 2022 wird das Vorliegen einer u-förmigen Beziehung zwischen Religiosität und Jugenddelinquenz überprüft. Empirisch zeigt sich, dass zwischen Religiosität und Gewaltdelikten eine kurvilineare, zwischen Religiosität und Eigentumsdelikten jedoch eine lineare Verknüpfung besteht. Diese Befunde gelten sowohl für christliche als auch muslimische Jugendliche. Abschließend werden die Verallgemeinerbarkeit der Ergebnisse sowie die Limitationen des Beitrags diskutiert."
-
-[[item]]
   organization = "Jan-Philip Steinmann, Gert Pickel"
   organization_url = ""
   title = "Explaining the relationship between religiosity and anti-diversity attitudes among Christians in Western Germany"
