@@ -59,9 +59,9 @@ date_format = "Jan 2006"
   description = "The aim of this data visualization is to answer the question whether immigration has acted as a counter-secularization force in Germany in recent years. The hypothesis is based on the tendency of first- and second-generation immigrants to exhibit higher levels of religiosity compared to the host populations. Simulation analysis involving more than 15,000 respondents of data from the 2014 to 2021 “German General Social Survey” (GGSS) indicates that the increase in the immigrant population during this period does not emerge as a substantial counterforce to religious decline in both Eastern and Western Germany. An effective slowdown in secularization in Germany would have required a more substantial increase in immigration, a notably higher level of religious engagement among new arrivals and their descendants than was observed, and a reduced pace of secularization among them."
 
 [[item]]
-  organization = "Jan-Philip Steinmann, Theresa Entringer, Jörg Hartmann, Hannes Kröger"
+  organization = "Jan-Philip Steinmann, Hannes Kröger, Jörg Hartmann, Theresa Entringer"
   organization_url = ""
-  title = "Religious well-being benefits in times of crisis. Religiosity, social integration, and changes in subjective well-being during the early stages of the COVID-19 pandemic in Germany"
+  title = ": Did religious well-being benefits converge or diverge during the early stages of the COVID-19 pandemic in Germany"
   url = ""
   certificate_url = ""
   date_start = "2023-08-02"
