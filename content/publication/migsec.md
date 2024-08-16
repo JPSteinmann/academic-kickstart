@@ -1,5 +1,5 @@
 ---
-title: "Has Immigration Slowed Down Secularization in Germany? Empirical Evidence From 2014 to 2021"
+title: "Has immigration slowed down secularization in Germany? Empirical evidence from 2014 to 2021"
 authors:
 - admin
 date: "2024-08-16"
