@@ -49,16 +49,6 @@ date_format = "Jan 2006"
   description = "Research on whether religiosity promotes or reduces prejudice has produced plenty of paradoxical findings. In this article we address the relationship between religiosity and anti-diversity attitudes (xenophobia and homophobia) among Christians in Western Germany. We ask what the relationship between religiosity and anti-diversity attitudes is and how it can be explained. Two (complementary) theoretical explanations are presented: the religious-ideology explanation emphasizes the role of fundamentalism, and the loss-of-privileges explanation underscores the importance of perceived disadvantage. Our analysis is based on a representative sample of Christians in Western Germany and provides evidence of a curvilinear religiosity-prejudice relationship. Up to a certain level of religiosity, xenophobia and homophobia decrease as religiosity increases; however, the relationship then reverses—anti-diversity attitudes are particularly pronounced among the highly religious. The level of xenophobia among the highly religious is fully explained by fundamentalism and perceived disadvantage, whereas their level of homophobia is only partially explained."
 
 [[item]]
-  organization = "Jan-Philip Steinmann"
-  organization_url = ""
-  title = "Has immigration slowed down secularization in Germany? Empirical evidence from 2014 to 2021"
-  url = ""
-  certificate_url = ""
-  date_start = "2024-02-05"
-  date_end = ""
-  description = "The aim of this data visualization is to answer the question whether immigration has acted as a counter-secularization force in Germany in recent years. The hypothesis is based on the tendency of first- and second-generation immigrants to exhibit higher levels of religiosity compared to the host populations. Simulation analysis involving more than 15,000 respondents of data from the 2014 to 2021 “German General Social Survey” (GGSS) indicates that the increase in the immigrant population during this period does not emerge as a substantial counterforce to religious decline in both Eastern and Western Germany. An effective slowdown in secularization in Germany would have required a more substantial increase in immigration, a notably higher level of religious engagement among new arrivals and their descendants than was observed, and a reduced pace of secularization among them."
-
-[[item]]
   organization = "Jan-Philip Steinmann, Hannes Kröger, Jörg Hartmann, Theresa Entringer"
   organization_url = ""
   title = ": Did religious well-being benefits converge or diverge during the early stages of the COVID-19 pandemic in Germany?"
