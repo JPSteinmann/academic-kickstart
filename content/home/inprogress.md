@@ -58,14 +58,4 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Research on whether religiosity promotes or reduces prejudice has produced plenty of paradoxical findings. In this article we address the relationship between religiosity and anti-diversity attitudes (xenophobia and homophobia) among Christians in Western Germany. We ask what the relationship between religiosity and anti-diversity attitudes is and how it can be explained. Two (complementary) theoretical explanations are presented: the religious-ideology explanation emphasizes the role of fundamentalism, and the loss-of-privileges explanation underscores the importance of perceived disadvantage. Our analysis is based on a representative sample of Christians in Western Germany and provides evidence of a curvilinear religiosity-prejudice relationship. Up to a certain level of religiosity, xenophobia and homophobia decrease as religiosity increases; however, the relationship then reverses—anti-diversity attitudes are particularly pronounced among the highly religious. The level of xenophobia among the highly religious is fully explained by fundamentalism and perceived disadvantage, whereas their level of homophobia is only partially explained."
 
-[[item]]
-  organization = "Jan-Philip Steinmann, Hannes Kröger, Jörg Hartmann, Theresa Entringer"
-  organization_url = ""
-  title = ": Did religious well-being benefits converge or diverge during the early stages of the COVID-19 pandemic in Germany?"
-  url = ""
-  certificate_url = ""
-  date_start = "2023-08-02"
-  date_end = ""
-  description = "A large body of literature highlights the benefits of being religious in terms of subjective well-being. We examine changes to these so-called religious well-being benefits during the early stages of the COVID-19 pandemic in Germany and address the role of (formal and informal) social integration when explaining these changes. We empirically test two contrasting scenarios: The first scenario predicts a decrease in religious well-being benefits (convergence hypothesis), while the second scenario predicts an increase in religious well-being benefits (divergence hypothesis). We adopt a potential outcomes framework and apply marginal structural models and inverse probability of treatment weighting to nationally representative, longitudinal data including both pre- and during-pandemic periods, Thereby, we show that initial religious well-being benefits declined during the early stages of the COVID-19 pandemic in Germany. This decline was partly due to religious individuals’ perception of decreasing social integration. Our results challenge the widespread idea that religious individuals are better protected against crises."
-
 +++
