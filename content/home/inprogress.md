@@ -47,14 +47,4 @@ date_format = "Jan 2006"
   date_start = "2024-06-01"
   date_end = ""
   description = "This article addresses the perceived religious discrimination and lack of religious opportunity structure among adolescent Muslim inmates and how these religion-related prison experiences affect their out-group hostility. Further, it examines whether the link between these experiences and out-group hostility depends on inmates’ religiosity. Building on general strain theory, religion-related prison experiences are conceptualized as events potentially leading to out-group hostility. The coping literature is used to identify different dimensions of religiosity that can either strengthen or weaken the relationship of interest. Data from German juvenile prisons were analyzed. Qualitative findings (N=22) indicate inmates experience disadvantages in practicing their religion but feel grateful rather than discriminated against. Quantitative results (N=311) show perceived religious discrimination is positively linked to out-group hostility, while lack of religious opportunity structure is not. Religiosity did not moderate the association between perceived religious discrimination and out-group hostility."
-
-[[item]]
-  organization = "Jan-Philip Steinmann, Marcel Lubbers"
-  organization_url = ""
-  title = "Misperceptions of the foreign-born population size in European societies. The role of immigration-related national discourses"
-  url = ""
-  certificate_url = ""
-  date_start = "2024-05-27"
-  date_end = ""
-  description = "In this article, we explore cross-national variations in misperceptions of the foreign-born population size in European societies. We provide theoretical reasoning why national discourses on immigration articulated by politics and media should influence individual (mis)perceptions. Differentiating between salience and valence of national discourses, we also examine their interplay with individuals’ actual exposure to political and media debates. The results of multilevel regression analyses using 2014 European Social Survey (ESS) data suggest that mere salience of national discourses on immigration is not decisive when explaining (mis)perceptions of the foreign-born population size. Regarding the valence of immigration-related national discourses, we identify an ambivalent role of political discourse that is more immigrant-friendly. In countries with inclusive discourse, overestimation of the number of foreign-born people is less likely to occur but also underestimation is more pronounced. Moreover, effects of national discourse on individual misperceptions are not conditional on people’s exposure to politics and media."
 +++
