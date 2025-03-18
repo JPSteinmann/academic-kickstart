@@ -20,7 +20,7 @@ publication_short: ""
 abstract: In this article, we explore cross-national variations in misperceptions of the foreign-born population size in European societies. We provide theoretical reasoning why national discourses on immigration articulated by politics and media should influence individual (mis)perceptions. Differentiating between salience and valence of national discourses, we also examine their interplay with individuals’ actual exposure to political and media debates. The results of multilevel regression analyses using 2014 European Social Survey (ESS) data suggest that mere salience of national discourses on immigration is not decisive when explaining (mis)perceptions of the foreign-born population size. Regarding the valence of immigration-related national discourses, we identify an ambivalent role of political discourse that is more immigrant-friendly. In countries with inclusive discourse, overestimation of the number of foreign-born people is less likely to occur but also underestimation is more pronounced. Moreover, effects of national discourse on individual misperceptions are not conditional on people’s exposure to politics and media.
 
 # Summary. An optional shortened abstract.
-summary: "Comparative Migration Studies"
+summary: "International Journal of Sociology"
 
 tags:
 - Source Themes
