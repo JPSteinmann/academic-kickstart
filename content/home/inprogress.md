@@ -41,7 +41,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Barbara Bergmann, Paulina Lutz, Jan-Philip Steinmann"
   organization_url = ""
-  title = "A mixed-methods study on out-group hostility and religiosity among Muslims in German youth prisons: the role of religious discrimination and opportunity structure"
+  title = "A mixed-methods study on out-group hostility and religiosity among Muslims in German youth prisons. The role of religious discrimination and opportunity structure"
   url = ""
   certificate_url = ""
   date_start = "2024-06-01"
