@@ -21,6 +21,16 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Jan-Philip Steinmann"
   organization_url = ""
+  title = "Becoming visible. Religious visibility among Christian and Muslim youth"
+  url = ""
+  certificate_url = ""
+  date_start = "2025-04-207"
+  date_end = ""
+  description = "The aim of this data visualization is to investigate who becomes religiously visible and when, focusing on male and female Christian and Muslim adolescents in Germany. Data from the 2024 Lower Saxony Survey of ninth graders indicate three key findings: While the religious visibility of Christian adolescents remains largely stable with age, it increases notably for Muslim adolescents. Contrary to this pattern, the youngest Muslims stand out for their relatively high religious visibility. Together, these findings offer insights into when Muslim adolescents visibly declare their religious identity, thereby highlighting a religiously coded boundary."
+
+[[item]]
+  organization = "Jan-Philip Steinmann"
+  organization_url = ""
   title = "Das Messer, die Jugend und die Religion. Eine notwendige Differenzierung"
   url = ""
   certificate_url = ""
