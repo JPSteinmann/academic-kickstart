@@ -46,6 +46,7 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.de/citations?user=TIeoVHsAAAAJ&hl=de&oi=ao
+[[params.social]]
 - icon: bluesky
   icon_pack: fab
   link: https://bsky.app/profile/jpsteinmann.bsky.social
