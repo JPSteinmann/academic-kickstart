@@ -1,5 +1,5 @@
 ---
-title: "Did religious well-being benefits converge or diverge during the early stages of the COVID-19 pandemic in Germany?"
+title: "A mixed-methods study on out-group hostility and religiosity among Muslims in German youth prisons: The role of religious discrimination and opportunity structure"
 authors: [Barbara Bergmann, Paulian Lutz, admin]
 date: "2025-04-25"
 doi: ""
