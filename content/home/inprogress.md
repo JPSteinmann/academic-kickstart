@@ -21,6 +21,16 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Jan-Philip Steinmann"
   organization_url = ""
+  title = "Becoming visible. Religious visibility among Christian and Muslim youth"
+  url = ""
+  certificate_url = ""
+  date_start = "2025-04-25"
+  date_end = ""
+  description = "The aim of this study is to investigate who becomes religiously visible—such as by wearing hijabs or cross necklaces—and when, focusing on male and female Christian and Muslim adolescents in Germany. Data from the 2024 Lower Saxony Survey of ninth graders indicate three key findings: While the self-assessed religious visibility of Christian adolescents remains largely stable with age, it increases notably for Muslim adolescents. Contrary to this pattern, the youngest Muslims stand out for their relatively high religious visibility. Together, these findings offer insights into when Muslim adolescents visibly declare their religious identity, widening the religious visibility gap between Christians and Muslims and thereby highlighting a religiously coded boundary."
+
+[[item]]
+  organization = "Jan-Philip Steinmann"
+  organization_url = ""
   title = "Das Messer, die Jugend und die Religion. Eine notwendige Differenzierung"
   url = ""
   certificate_url = ""
@@ -37,14 +47,4 @@ date_format = "Jan 2006"
   date_start = "2024-09-01"
   date_end = ""
   description = "Previous cross-national comparison research has mainly considered contemporary forces to explain current public views about immigrants’ impact on crime. We argue that a historically informed perspective can improve our understanding of such views. In our study, we explore how two macro-historical explanatory factors—countries’ varied histories of crimmigration and past geopolitical threat—are related to the perception of immigrants’ impact on crime in European societies today. A country is considered to have a pronounced history of crimmigration when immigration law and criminal law have become increasingly intertwined over time (1980-2014). When a country faces the loss of or a threat to its national sovereignty or territory during or after nation-state formation (19th and 20th centuries), it is deemed to have been geopolitically threatened. Multilevel regression analyses based on the 2002 and 2014 European Social Survey (ESS) data from 21 countries, controlling for individual- and other country-level factors, indicate that current worries about immigrant crime in European societies have historical roots. Current public views about immigrants’ impact on crime are more evident in countries with more severe past geopolitical threat rather than being affected by a country’s history of crimmigration. The findings are discussed in terms of their relevance to research on criminalization of immigrants."
-
-[[item]]
-  organization = "Barbara Bergmann, Paulina Lutz, Jan-Philip Steinmann"
-  organization_url = ""
-  title = "A mixed-methods study on out-group hostility and religiosity among Muslims in German youth prisons. The role of religious discrimination and opportunity structure"
-  url = ""
-  certificate_url = ""
-  date_start = "2024-06-01"
-  date_end = ""
-  description = "This article addresses the perceived religious discrimination and lack of religious opportunity structure among adolescent Muslim inmates and how these religion-related prison experiences affect their out-group hostility. Further, it examines whether the link between these experiences and out-group hostility depends on inmates’ religiosity. Building on general strain theory, religion-related prison experiences are conceptualized as events potentially leading to out-group hostility. The coping literature is used to identify different dimensions of religiosity that can either strengthen or weaken the relationship of interest. Data from German juvenile prisons were analyzed. Qualitative findings (N=22) indicate inmates experience disadvantages in practicing their religion but feel grateful rather than discriminated against. Quantitative results (N=311) show perceived religious discrimination is positively linked to out-group hostility, while lack of religious opportunity structure is not. Religiosity did not moderate the association between perceived religious discrimination and out-group hostility."
 +++
