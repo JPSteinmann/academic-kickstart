@@ -72,4 +72,4 @@ My name is Jan-Philip Steinmann and I am head of the research unit "Aetiology of
 
 I hold a doctoral degree from the University of Goettingen, Germany. I have been visiting student/researcher at Utrecht University and the Netherlands Interdisciplinary Demographic Institute (NIDI) in The Hague.
 
-My work appeared in several journals including European Journal of Criminology, International Migration Review, Journal of Ethnic and Migration Studies, and Kölner Zeitschrift für Soziologie und Sozialpsychologie.
+My work appeared in several journals including Criminal Justice and Behavior, European Journal of Criminology, International Migration Review, Journal of Ethnic and Migration Studies, Kölner Zeitschrift für Soziologie und Sozialpsychologie, and Socius.
