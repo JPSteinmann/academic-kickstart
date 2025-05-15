@@ -19,14 +19,14 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Jan-Philip Steinmann"
+  organization = "Mona Victoria Gröneweg, Barbara Bergmann, Jan-Philip Steinmann"
   organization_url = ""
-  title = "Becoming visible. Religious visibility among Christian and Muslim youth"
+  title = "Religiosity, fundamentalism, and gender-role values among Christian and Muslim youth"
   url = ""
   certificate_url = ""
-  date_start = "2025-04-25"
+  date_start = "2025-05-15"
   date_end = ""
-  description = "The aim of this study is to investigate who becomes religiously visible—such as by wearing hijabs or cross necklaces—and when, focusing on male and female Christian and Muslim adolescents in Germany. Data from the 2024 Lower Saxony Survey of ninth graders indicate three key findings: While the self-assessed religious visibility of Christian adolescents remains largely stable with age, it increases notably for Muslim adolescents. Contrary to this pattern, the youngest Muslims stand out for their relatively high religious visibility. Together, these findings offer insights into when Muslim adolescents visibly declare their religious identity, widening the religious visibility gap between Christians and Muslims and thereby highlighting a religiously coded boundary."
+  description = "TThis article examines gender-role values among Christian and Muslim adolescents with varying levels of religiosity. It asks whether religious fundamentalism, rather than religious affiliation or religiosity alone, is the key factor driving such values. School survey data from seventh graders in Germany (N = 4,025) show that Muslim adolescents are more likely to support patriarchal gender-role values than their Christian counterparts and that higher religiosity is linked to stronger endorsement of these values. Religious fundamentalism mediates the relationship between religious affiliation and patriarchal gender-role values, as well as between religiosity and such values. This study points to religious fundamentalism as the main driver of patriarchal gender-role values in both religious groups, challenging stereotypes about Islam’s inherent link to patriarchy."
 
 [[item]]
   organization = "Jan-Philip Steinmann"
