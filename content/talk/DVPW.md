@@ -1,5 +1,5 @@
 ---
-title: Religion und Wahlverhalten: Die Transformation einer Konfliktlinie
+title: Religion und Wahlverhalten. Die Transformation einer Konfliktlinie
 event: Jahrestagung des Arbeitskreises Wahlen und politische Einstellungen der Deutschen Vereinigung für Politikwissenschaft (DVPW)
 event_url: https://www.dvpw.de/fileadmin/user_upload/ak_wahlen/2._CfP_AK_Wahlen_Berlin_2025.pdf
 
