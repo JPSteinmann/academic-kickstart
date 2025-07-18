@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Jan-Philip Steinmann"
   organization_url = ""
-  title = "Religious boundary dynamics: Religious visibility and perceptions of religious discrimination among Christian and Muslim youth"
+  title = "Religious boundary dynamics. Religious visibility and perceptions of religious discrimination among Christian and Muslim youth"
   url = ""
   certificate_url = ""
   date_start = "2025-18-08"
