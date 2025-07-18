@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Jan-Philip Steinmann"
+  organization_url = ""
+  title = "Religious boundary dynamics: Religious visibility and perceptions of religious discrimination among Christian and Muslim youth"
+  url = ""
+  certificate_url = ""
+  date_start = "2025-18-08"
+  date_end = ""
+  description = "This study examines where and how religious boundaries are drawn and maintained by exploring the relationship between the visible display of religious markers and perceived religious discrimination among Christian and Muslim adolescents in Germany. It asks whether religious visibility heightens perceptions of religious discrimination, and how this varies by religious affiliation, gender, and educational level. The data come from a 2024 survey of ninth graders in Lower Saxony, Germany. Empirical findings indicate that perceptions of religious discrimination increase with greater religious visibility. However, this effect is not uniform across subgroups. The strongest—though statistically somewhat uncertain—effects are observed among female and more educated Muslims. Drawing on Christian and Muslim adolescents in Germany, the results reveal that religious boundaries exist, but the main tension is not between religiosity and secularity. Instead, the findings underscore insights from prior research that reinforcing processes sustain religious boundaries—particularly those between Christianity and secularity, on the one hand, and Islam, on the other."
+
+[[item]]
   organization = "Mona Victoria Gröneweg, Barbara Bergmann, Jan-Philip Steinmann"
   organization_url = ""
   title = "Religiosity, fundamentalism, and gender-role values among Christian and Muslim youth"
