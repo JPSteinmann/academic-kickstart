@@ -1,6 +1,6 @@
 ---
 title: Entwicklung von Jugendgewalt und Messerkriminalität
-event: Masterstudiengang „Öffentliche Verwaltung – Polizeimanagement“ der Deutschen Hochschule der Poli-zei (DHPol)
+event: Masterstudiengang „Öffentliche Verwaltung – Polizeimanagement“ der Deutschen Hochschule der Polizei (DHPol)
 event_url: https://www.dhpol.de/Modulhandbuch_-2024_2026.pdf
 
 location: "Münster"
@@ -17,7 +17,7 @@ abstract: ""
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2025-08-28"
-date_end: "2025-08-28"
+# date_end: "2025-08-28"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
