@@ -72,6 +72,6 @@ My name is Jan-Philip Steinmann and I am head of the research unit "Aetiology of
 
 I am the principal investigator of the project "The Role of Religiosity in Delinquency among Christian and Muslim Youths" ({{% staticref "https://en.kfn.de/research-projects/dfg-religion-delinquency/" "newtab" %}}ReliDeli{{% /staticref %}}), which addresses the classic criminological question of how religiosity and delinquent behavior are related. The project is funded by the German Research Foundation (DFG).
 
-I hold a doctoral degree from the University of Goettingen, Germany. I have been visiting student/researcher at Utrecht University and the Netherlands Interdisciplinary Demographic Institute (NIDI) in The Hague.
+I hold a doctoral degree from the University of Goettingen ({{% staticref "https://www.uni-goettingen.de/en/1.html" "newtab" %}}UGÖ{{% /staticref %}}), Germany. I have been visiting student/researcher at Utrecht University ({{% staticref "https://nidi.nl/en/" "newtab" %}}UU{{% /staticref %}}) and the Netherlands Interdisciplinary Demographic Institute ({{% staticref "https://nidi.nl/en/" "newtab" %}}NIDI{{% /staticref %}}) in The Hague.
 
 My work has been published in several journals, including leading outlets in general sociology (Kölner Zeitschrift für Soziologie und Sozialpsychologie, Socius) and criminology (Criminal Justice and Behavior, European Journal of Criminology), as well as prominent journals in migration research (International Migration Review, Journal of Ethnic and Migration Studies). 
