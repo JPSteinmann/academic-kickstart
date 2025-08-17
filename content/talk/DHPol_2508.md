@@ -23,7 +23,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2025-02-21T00:00:00Z"
 
-authors: [admin]
+authors: [Yvonne Krieg, admin]
 tags: []
 
 # Is this a featured talk? (true/false)
