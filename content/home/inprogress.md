@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Jan-Philip Steinmann, Gert Pickel"
+  organization_url = ""
+  title = "Zur Transformation einer Konfliktlinie. Religiöse Bestimmungsfaktoren für das Wahlverhalten"
+  url = ""
+  certificate_url = ""
+  date_start = "2025-10-29"
+  date_end = ""
+  description = "Der Artikel untersucht den Wandel des religiösen cleavage und fragt, ob Religion weiterhin das Wahlverhalten in Deutschland prägt und ob sich die Konfliktlinie nach dem Übergang von konfessionell zu religiös-säkular erneut verschoben hat. Vor dem Hintergrund einer postulierten Konfliktlinie des Religionsanspruchs wird argumentiert, dass ein exklusiver gegenüber einem inklusiven Religionsanspruch unter Christ:innen die Wahrscheinlichkeit erhöht, Pfade der Radikalisierung (Wahl der AfD), der Traditionalisierung (CDU/CSU) oder des Rückzugs (Nicht-Wahl) einzuschlagen. Zudem werden rechtspopulistische Positionen und wahrgenommene religiöse Benachteiligung als vermittelnde Faktoren für diese Pfade vorgeschlagen. Die Befunde legen Ansätze einer erneuten Transformation des religiösen cleavage in Deutschland nahe. Der Religionsanspruch von Christ:innen ist mitentscheidend für ihr Wahlverhalten, vermittelt über rechtspopulistische Positionen und wahrgenommene religiöse Benachteiligung."
+
+[[item]]
   organization = "Jan-Philip Steinmann"
   organization_url = ""
   title = "Religious boundary dynamics. Religious visibility and perceptions of religious discrimination among Christian and Muslim youth"
