@@ -15,7 +15,7 @@ role: Postdoctoral researcher
 # Organizations/Affiliations
 organizations:
 - name: Criminological Research Institute of Lower Saxony (KFN)
-  url: "https://en.kfn.de/kfn/institute/researcher/dr-jan-philip-steinmann/"
+  url: "https://kfn.de/en/scientists/jan-philip-steinmann/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Head of the research unit “Aetiology of Deviance” at the Criminological Research Institute of Lower Saxony (KFN), Germany
@@ -68,9 +68,9 @@ user_groups:
 - Visitors
 ---
 
-My name is Jan-Philip Steinmann and I am head of the research unit "Aetiology of Deviance" at the Criminological Research Institute of Lower Saxony ({{% staticref "https://en.kfn.de/" "newtab" %}}KFN{{% /staticref %}}) and affiliated postdoctoral researcher at the Research Institute Social Cohesion ({{% staticref "https://fgz-risc.de/" "newtab" %}}RISC{{% /staticref %}}) at the University of Bremen, Germany. I consider myself a sociologist, on the edge of cultural sociology and social structure analysis. My research interests, in the broadest sense, relate to causes and consequences of (decreasing or increasing) social cohesion. Thereby, I mainly focus on social inequalities, migration processes and immigrants’ integration, right-wing populism, and deviant behavior. Across all these topics, I investigate paradoxical effects of religion. Although I am mostly using quantitative empirical methods, I am also conducting mixed methods research.
+My name is Jan-Philip Steinmann and I am head of the research unit "Aetiology of Deviance" at the Criminological Research Institute of Lower Saxony ({{% staticref "https://kfn.de/en/home/" "newtab" %}}KFN{{% /staticref %}}) and affiliated postdoctoral researcher at the Research Institute Social Cohesion ({{% staticref "https://fgz-risc.de/en/" "newtab" %}}RISC{{% /staticref %}}) at the University of Bremen, Germany. I consider myself a sociologist, on the edge of cultural sociology and social structure analysis. My research interests, in the broadest sense, relate to causes and consequences of (decreasing or increasing) social cohesion. Thereby, I mainly focus on social inequalities, migration processes and immigrants’ integration, right-wing populism, and deviant behavior. Across all these topics, I investigate paradoxical effects of religion. Although I am mostly using quantitative empirical methods, I am also conducting mixed methods research.
 
-I am the principal investigator of the project "The Role of Religiosity in Delinquency among Christian and Muslim Youths" ({{% staticref "https://en.kfn.de/research-projects/dfg-religion-delinquency/" "newtab" %}}ReliDeli{{% /staticref %}}), which addresses the classic criminological question of how religiosity and delinquent behavior are related. The project is funded by the German Research Foundation ({{% staticref "https://gepris.dfg.de/gepris/projekt/569869481?language=en" "newtab" %}}DFG{{% /staticref %}}).
+I am the principal investigator of the project "The Role of Religiosity in Delinquency among Christian and Muslim Youths" ({{% staticref "https://kfn.de/en/research-projects/the-role-of-religiosity-in-delinquency-among-christian-and-muslim-youths/" "newtab" %}}ReliDeli{{% /staticref %}}), which addresses the classic criminological question of how religiosity and delinquent behavior are related. The project is funded by the German Research Foundation ({{% staticref "https://gepris.dfg.de/gepris/projekt/569869481?language=en" "newtab" %}}DFG{{% /staticref %}}).
 
 I hold a doctoral degree from the University of Goettingen ({{% staticref "https://www.uni-goettingen.de/en/1.html" "newtab" %}}UGÖ{{% /staticref %}}), Germany. I have been visiting student/researcher at Utrecht University ({{% staticref "https://www.uu.nl/en" "newtab" %}}UU{{% /staticref %}}) and the Netherlands Interdisciplinary Demographic Institute ({{% staticref "https://nidi.nl/en/" "newtab" %}}NIDI{{% /staticref %}}) in The Hague.
 
