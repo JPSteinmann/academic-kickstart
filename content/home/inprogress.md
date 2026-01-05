@@ -18,6 +18,17 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+[[item]]
+  organization = "Jan-Philip Steinmann"
+  organization_url = ""
+  title = "Religious boundary dynamics. Religious visibility and perceptions of religious discrimination among Christian and Muslim youth"
+  url = ""
+  certificate_url = ""
+  date_start = "2026-01-05"
+  date_end = ""
+  description = "This study examines where and how religious boundaries are drawn and maintained by exploring the relationship between the visible display of religious markers and perceived religious discrimination among Christian and Muslim adolescents in Germany. It asks whether religious visibility heightens perceptions of religious discrimination, and how this varies by religious affiliation, gender, and education. Data come from a 2024 survey of ninth graders in Germany. Empirical findings indicate that perceptions of religious discrimination increase with greater religious visibility. However, this effect is not uniform across subgroups. The strongest—though statistically somewhat uncertain—effects are observed among female and more educated Muslims. Drawing on Christian and Muslim adolescents in Germany, results reveal that religious boundaries exist, but the main tension is not between religiosity and secularity. This underscores prior research showing that reinforcing processes sustain religious boundaries—particularly between Christianity and secularity, on the one hand, and Islam, on the other."
+
 [[item]]
   organization = "Jan-Philip Steinmann, Gert Pickel"
   organization_url = ""
@@ -27,16 +38,6 @@ date_format = "Jan 2006"
   date_start = "2025-10-29"
   date_end = ""
   description = "Der Artikel untersucht den Wandel des religiösen cleavage und fragt, ob Religion weiterhin das Wahlverhalten in Deutschland prägt und ob sich die Konfliktlinie nach dem Übergang von konfessionell zu religiös-säkular erneut verschoben hat. Vor dem Hintergrund einer postulierten Konfliktlinie des Religionsanspruchs wird argumentiert, dass ein exklusiver gegenüber einem inklusiven Religionsanspruch unter Christ:innen die Wahrscheinlichkeit erhöht, Pfade der Radikalisierung (Wahl der AfD), der Traditionalisierung (CDU/CSU) oder des Rückzugs (Nicht-Wahl) einzuschlagen. Zudem werden rechtspopulistische Positionen und wahrgenommene religiöse Benachteiligung als vermittelnde Faktoren für diese Pfade vorgeschlagen. Die Befunde legen Ansätze einer erneuten Transformation des religiösen cleavage in Deutschland nahe. Der Religionsanspruch von Christ:innen ist mitentscheidend für ihr Wahlverhalten, vermittelt über rechtspopulistische Positionen und wahrgenommene religiöse Benachteiligung."
-
-[[item]]
-  organization = "Jan-Philip Steinmann"
-  organization_url = ""
-  title = "Religious boundary dynamics. Religious visibility and perceptions of religious discrimination among Christian and Muslim youth"
-  url = ""
-  certificate_url = ""
-  date_start = "2025-09-22"
-  date_end = ""
-  description = "This study examines where and how religious boundaries are drawn and maintained by exploring the relationship between the visible display of religious markers and perceived religious discrimination among Christian and Muslim adolescents in Germany. It asks whether religious visibility heightens perceptions of religious discrimination, and how this varies by religious affiliation, gender, and educational level. The data come from a 2024 survey of ninth graders in Lower Saxony, Germany. Empirical findings indicate that perceptions of religious discrimination increase with greater religious visibility. However, this effect is not uniform across subgroups. The strongest—though statistically somewhat uncertain—effects are observed among female and more educated Muslims. Drawing on Christian and Muslim adolescents in Germany, the results reveal that religious boundaries exist, but the main tension is not between religiosity and secularity. Instead, the findings underscore insights from prior research that reinforcing processes sustain religious boundaries—particularly those between Christianity and secularity, on the one hand, and Islam, on the other."
 
 [[item]]
   organization = "Mona Victoria Gröneweg, Barbara Bergmann, Jan-Philip Steinmann"
