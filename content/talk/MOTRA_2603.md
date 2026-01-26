@@ -1,6 +1,6 @@
 ---
 title: Entwicklung der Verschwörungsmentalität unter Jugendlichen vor, während und nach der COVID-19-Pandemie
-event: Netzwerktagung Kriminologie in NRW
+event: Konferenz des Forschungsverbunds „Monitoringsystem und Transferplattform Radikalisierung“ (MOTRA)
 event_url: https://www.motra.info/motra-k-26/
 
 location: "Wiesbaden"
@@ -16,8 +16,8 @@ abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2025-03-13"
-date_end: "2025-03-14"
+date: "2026-03-04"
+date_end: "2026-03-05"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
