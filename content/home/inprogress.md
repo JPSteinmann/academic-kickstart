@@ -18,6 +18,15 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[item]]
+  organization = "Jan-Philip Steinmann, Miriam Kiene"
+  organization_url = ""
+  title = "The good, the bad, and the curvilinear. Revisiting the relationship between religiosity and delinquency"
+  url = ""
+  certificate_url = ""
+  date_start = "2026-02-03"
+  date_end = ""
+  description = "The delinquency-reducing function of religiosity is a well-established pattern in the criminological literature. We challenge previous findings by testing a curvilinear alternative, hypothesizing that religiosity and delinquency are negatively related only up to a moderate level of religiosity, after which the relationship reverses. Using data from more than 46,000 adolescents in Germany collected across six surveys between 2013 and 2024, we examine violent offenses and substance use. Our results reveal a consistent curvilinear relationship between religiosity and delinquency. The link between religiosity and violent offenses reverses, with highly religious adolescents reporting the highest levels of violent offending. For substance use, religiosity generally remains protective, but this effect gradually weakens as religiosity increases. We discuss two complementary explanations for the curvilinear relationship between religiosity and delinquency: the religious-ideology perspective and the loss-of-privileges perspectives."
 
 [[item]]
   organization = "Jan-Philip Steinmann"
