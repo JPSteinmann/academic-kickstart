@@ -1,6 +1,6 @@
 ---
 title: Religiosität und Jugenddelinquenz. Rückblick und Ausblick
-event: Treffen des Evangelischen Bundesfachver-bands Existenzsicherung und Teilhabe e.V. (EBET) und der Katholischen Bundes-Arbeitsgemeinschaft Straffälligenhilfe (KAGS)
+event: Treffen des Evangelischen Bundesfachverbands Existenzsicherung und Teilhabe e.V. (EBET) und der Katholischen Bundes-Arbeitsgemeinschaft Straffälligenhilfe (KAGS)
 event_url: ""
 
 location: "Berlin (online)"
