@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Yvonne Krieg, Jan-Philip Steinmann"
+  organization_url = ""
+  title = "Less conspiratorial in crisis? Evidence for a drop in adolescent conspiracy mentality during the COVID-19 pandemic"
+  url = ""
+  certificate_url = ""
+  date_start = "2026-04-24"
+  date_end = ""
+  description = "Although it is widely perceived that belief in conspiracy theories increased during the COVID-19 pandemic, empirical evidence on changes in conspiracy mentality is limited, especially for adolescents. Using repeated cross-sectional data, our study investigates changes in conspiracy mentality among German adolescents before (2019), during (2022), and after (2024) the pandemic, as well as its relationship with right-wing extremist ideology (RWEI). Latent class analysis (LCA) identified three subgroups: rejectors, ambivalents, and believers. The results reveal systematic differences between subgroups across all three years. They also show that there was a temporary shift toward less conspiracy mentality as well as a bigger proportion of rejectors during the pandemic in 2022, supporting the pandemic drop hypotheses. By 2024, average levels had almost returned to their pre-pandemic values. Between 2019 (before the pandemic) and 2024 (after the pandemic), the proportion of believers remained largely stable and even decreased slightly, the proportion of ambivalents increased and the proportion of rejectors decreased. Furthermore, the study shows that RWEI is positively associated with conspiracy mentality and is more common among believers and ambivalents than among rejectors. The implications of these findings are discussed."
+
+[[item]]
   organization = "Jan-Philip Steinmann, Miriam Kiene"
   organization_url = ""
   title = "Variant or invariant? The role of religiosity in juvenile delinquency across socioeconomic status and gender"
