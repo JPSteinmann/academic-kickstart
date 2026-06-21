@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Recent Presentations"
+title = "Presentations"
 subtitle = ""
 
 [content]
@@ -15,7 +15,7 @@ subtitle = ""
   page_type = "talk"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 6
+  count = 10
   
   # Choose how many pages you would like to offset by
   offset = 0
