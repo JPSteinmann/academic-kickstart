@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Jan-Philip Steinmann, Miriam Kiene"
+  organization_url = ""
+  title = "The good, the bad, and the curvilinear. Revisiting the relationship between religiosity and delinquency"
+  url = ""
+  certificate_url = ""
+  date_start = "2026-07-03"
+  date_end = ""
+  description = "The delinquency-reducing function of religiosity is a repeatedly found pattern in criminology. We test a curvilinear alternative, hypothesizing that religiosity and delinquency are negatively related only up to a moderate level of religiosity, after which the relationship reverses. We outline two explanations for this pattern: the religious-ideology and the loss-of-privileges perspective. Using data from over 45,000 adolescents in Germany collected across six surveys (2013-2024), we examine how three dimensions of religiosity (religious importance, religious attendance, praying) are associated with three types of delinquency. Results reveal a curvilinear relationship between religiosity and violent offenses. For substance use, religiosity remains protective, but this effect weakens at higher levels of religiosity. The link between religiosity and property offenses is also nonlinear, including U-shaped relationships and diminishing protective effects. Subgroup analyses show clearer Christian patterns and more complex Muslim associations, highlighting the need for greater attention to highly religious individuals in criminological research."
+
+[[item]]
   organization = "Jan-Philip Steinmann, Gert Pickel"
   organization_url = ""
   title = "Zur Transformation einer Konfliktlinie. Religiöse Bestimmungsfaktoren für das Wahlverhalten"
@@ -47,16 +57,6 @@ date_format = "Jan 2006"
   date_start = "2026-03-15"
   date_end = ""
   description = "The aim of this study is to move beyond the average effects of religiosity on juvenile delinquency and examine whether these effects vary across socioeconomic status and gender. Drawing on the “complex religion” literature and social capital theory, we test contrasting hypotheses about variance and invariance for socioeconomic status and gender. Survey data, collected in 2022 and 2024, come from two representative samples of over 11,000 ninth-grade adolescents in Germany. Using logistic regression with cluster-robust standard errors, we estimated two- and three-way interactions and calculated predicted probabilities, average marginal effects, and second differences. Empirically, the religiosity-delinquency link exhibits a curvilinear pattern for violent offenses and a linear pattern for property offenses. These relationships show little variation across socioeconomic status and gender, indicating mainly invariance. The results remain consistent across a variety of robustness checks. Our findings suggest that the relationship between religiosity and juvenile delinquency largely does not vary by socioeconomic status or gender. Because major criminological theories generally treat religiosity as a protective factor against delinquency, the results concerning curvilinearity highlight a critical blind spot that future theoretical work should address."
-
-[[item]]
-  organization = "Jan-Philip Steinmann, Miriam Kiene"
-  organization_url = ""
-  title = "The good, the bad, and the curvilinear. Revisiting the relationship between religiosity and delinquency"
-  url = ""
-  certificate_url = ""
-  date_start = "2026-02-03"
-  date_end = ""
-  description = "The delinquency-reducing function of religiosity is a well-established pattern in criminology. We challenge previous findings by testing a curvilinear alternative, hypothesizing that religiosity and delinquency are negatively related only up to a moderate level of religiosity, after which the relationship reverses. Two theoretical explanations for this curvilinear association are presented: the religious-ideology and the loss-of-privileges perspective. Using data from more than 45,000 adolescents in Germany collected across six surveys between 2013 and 2024, we examine violent offenses and substance use. Our results reveal a consistent curvilinear relationship between religiosity and delinquency, independent of how religiosity is operationalized (religious importance, religious attendance, praying). The link between religiosity and violent offenses reverses, with highly religious adolescents reporting the highest levels of violent offending. For substance use, religiosity generally remains protective, but this effect gradually weakens as religiosity increases. These findings call for greater attention to highly religious individuals in future criminological research."
 
 [[item]]
   organization = "Jan-Philip Steinmann"
