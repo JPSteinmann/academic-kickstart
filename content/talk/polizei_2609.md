@@ -1,5 +1,5 @@
 ---
-title: Messerkriminalität Mediale Mythen und empirische Fakten
+title: Messerkriminalität. Mediale Mythen und empirische Fakten
 event: Polizeiärztetagung
 event_url: https://www.dhpol.de/fortbildung/fortbildungen/fortbildungen_2026.php
 
