@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Yvonne Krieg, Jan-Philip Steinmann"
+  organization_url = ""
+  title = "Less conspiratorial in crisis? Evidence for a drop in adolescent conspiracy mentality during the COVID-19 pandemic"
+  url = ""
+  certificate_url = ""
+  date_start = "2026-08-05"
+  date_end = ""
+  description = "Using repeated cross-sectional data from a representative school survey in a federal state in Germany (n = 30,185; 50.7% male; Mage = 14.99 years), our study investigates changes in conspiracy mentality among German adolescents before (2019), during (2022), and after (2024) the COVID-19 pandemic. As a preliminary step, measurement invariance across survey waves was assessed using multi-group structural equation modeling (MG-SEM). Mean differences were then examined using t-tests. In addition, latent class analysis (LCA) was used to identify subgroups based on conspiracy mentality. LCA was used to examine changes in subgroup distributions over time. T-tests showed a temporary decline in average conspiracy mentality during the pandemic in 2022 compared to 2019, followed by an increase in 2024, when levels had almost returned to pre-pandemic values. Latent class analysis identified three subgroups: rejectors, ambivalents, and believers. The proportion of rejectors increased during the pandemic but declined below pre-pandemic levels in 2024, while the proportion of ambivalents increased substantially after the pandemic. The proportion of believers remained largely stable and slightly decreased over time. The results suggest that the pandemic did not ultimately lead to an increased conspiracy mentality, supporting the pandemic drop hypothesis. Instead, the post-pandemic period was characterized by greater uncertainty regarding the acceptance of conspiracy theories. The implications of these findings are discussed."
+
+[[item]]
   organization = "Jan-Philip Steinmann, Miriam Kiene"
   organization_url = ""
   title = "The good, the bad, and the curvilinear. Revisiting the relationship between religiosity and delinquency"
@@ -37,16 +47,6 @@ date_format = "Jan 2006"
   date_start = "2026-05-18"
   date_end = ""
   description = "Der Artikel untersucht den Wandel des religiösen cleavage und fragt, ob Religion weiterhin das Wahlverhalten in Deutschland prägt und ob sich die Konfliktlinie nach dem Übergang von konfessionell zu religiös-säkular erneut verschoben hat. Vor dem Hintergrund einer postulierten Konfliktlinie des Religionsanspruchs wird argumentiert, dass ein exklusiver gegenüber einem inklusiven Religionsanspruch unter Christ:innen die Wahrscheinlichkeit erhöht, Pfade der Radikalisierung (Wahl der AfD), der Traditionalisierung (CDU/CSU) oder des Rückzugs (Nicht-Wahl) einzuschlagen. Zudem werden rechtspopulistische Positionen und wahrgenommene religiöse Benachteiligung als vermittelnde Faktoren für diese Pfade vorgeschlagen. Die Befunde legen Ansätze einer erneuten Transformation des religiösen cleavage für die deutsche Gesamtbevölkerung nahe. Der Religionsanspruch von Christ:innen ist mitentscheidend für ihr Wahlverhalten, unter anderem vermittelt über rechtspopulistische Positionen und wahrgenommene religiöse Benachteiligung."
-
-[[item]]
-  organization = "Yvonne Krieg, Jan-Philip Steinmann"
-  organization_url = ""
-  title = "Less conspiratorial in crisis? Evidence for a drop in adolescent conspiracy mentality during the COVID-19 pandemic"
-  url = ""
-  certificate_url = ""
-  date_start = "2026-04-24"
-  date_end = ""
-  description = "Although it is widely perceived that belief in conspiracy theories increased during the COVID-19 pandemic, empirical evidence on changes in conspiracy mentality is limited, especially for adolescents. Using repeated cross-sectional data, our study investigates changes in conspiracy mentality among German adolescents before (2019), during (2022), and after (2024) the pandemic, as well as its relationship with right-wing extremist ideology (RWEI). Latent class analysis (LCA) identified three subgroups: rejectors, ambivalents, and believers. The results reveal systematic differences between subgroups across all three years. They also show that there was a temporary shift toward less conspiracy mentality as well as a bigger proportion of rejectors during the pandemic in 2022, supporting the pandemic drop hypotheses. By 2024, average levels had almost returned to their pre-pandemic values. Between 2019 (before the pandemic) and 2024 (after the pandemic), the proportion of believers remained largely stable and even decreased slightly, the proportion of ambivalents increased and the proportion of rejectors decreased. Furthermore, the study shows that RWEI is positively associated with conspiracy mentality and is more common among believers and ambivalents than among rejectors. The implications of these findings are discussed."
 
 [[item]]
   organization = "Jan-Philip Steinmann, Miriam Kiene"
