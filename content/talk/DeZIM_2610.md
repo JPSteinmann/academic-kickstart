@@ -1,5 +1,5 @@
 ---
-title: Religiosity, religious diversity and juvenile delinquency in postmigrant Germany
+title: Religiosität, religiöse Diversität und Jugenddelinquenz im postmigrantischen Deutschland
 event: Konferenz des Deutschen Zentrums für Integrations- und Migrationsforschung (DeZIM)
 event_url: https://www.dezim-institut.de/veranstaltungen/dezim-konferenz-2026/
 
