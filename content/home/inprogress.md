@@ -29,16 +29,6 @@ date_format = "Jan 2006"
   description = "Using repeated cross-sectional data from a representative school survey in a federal state in Germany (n = 30,185; 50.7% male; Mage = 14.99 years), our study investigates changes in conspiracy mentality among German adolescents before (2019), during (2022), and after (2024) the COVID-19 pandemic. As a preliminary step, measurement invariance across survey waves was assessed using multi-group structural equation modeling (MG-SEM). Mean differences were then examined using t-tests. In addition, latent class analysis (LCA) was used to identify subgroups based on conspiracy mentality. LCA was used to examine changes in subgroup distributions over time. T-tests showed a temporary decline in average conspiracy mentality during the pandemic in 2022 compared to 2019, followed by an increase in 2024, when levels had almost returned to pre-pandemic values. Latent class analysis identified three subgroups: rejectors, ambivalents, and believers. The proportion of rejectors increased during the pandemic but declined below pre-pandemic levels in 2024, while the proportion of ambivalents increased substantially after the pandemic. The proportion of believers remained largely stable and slightly decreased over time. The results suggest that the pandemic did not ultimately lead to an increased conspiracy mentality, supporting the pandemic drop hypothesis. Instead, the post-pandemic period was characterized by greater uncertainty regarding the acceptance of conspiracy theories. The implications of these findings are discussed."
 
 [[item]]
-  organization = "Jan-Philip Steinmann, Miriam Kiene"
-  organization_url = ""
-  title = "The good, the bad, and the curvilinear. Revisiting the relationship between religiosity and delinquency"
-  url = ""
-  certificate_url = ""
-  date_start = "2026-07-03"
-  date_end = ""
-  description = "The delinquency-reducing function of religiosity is a repeatedly found pattern in criminology. We test a curvilinear alternative, hypothesizing that religiosity and delinquency are negatively related only up to a moderate level of religiosity, after which the relationship reverses. We outline two explanations for this pattern: the religious-ideology and the loss-of-privileges perspective. Using data from over 45,000 adolescents in Germany collected across six surveys (2013-2024), we examine how three dimensions of religiosity (religious importance, religious attendance, praying) are associated with three types of delinquency. Results reveal a curvilinear relationship between religiosity and violent offenses. For substance use, religiosity remains protective, but this effect weakens at higher levels of religiosity. The link between religiosity and property offenses is also nonlinear, including U-shaped relationships and diminishing protective effects. Subgroup analyses show clearer Christian patterns and more complex Muslim associations, highlighting the need for greater attention to highly religious individuals in criminological research."
-
-[[item]]
   organization = "Jan-Philip Steinmann, Gert Pickel"
   organization_url = ""
   title = "Zur Transformation einer Konfliktlinie. Religiöse Bestimmungsfaktoren für das Wahlverhalten"
