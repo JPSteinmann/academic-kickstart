@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   title = "Variant or invariant? The role of religiosity in juvenile delinquency across socioeconomic status and gender"
   url = ""
   certificate_url = ""
-  date_start = "2026-09-30"
+  date_start = "2026-10-02"
   date_end = ""
   description = "This study moves beyond the average effects of religiosity on juvenile delinquency and examines whether these effects vary across sociodemographic groups. Drawing on the “complex religion” literature and social capital theory, we test contrasting hypotheses about variance and invariance for socioeconomic status and gender. Survey data (collected in 2022 and 2024) come from two representative samples of over 11,000 ninth-grade adolescents in Germany. Using logistic regression with cluster-robust standard errors, we estimated interactions and calculated predicted probabilities, average marginal effects, and second differences. Empirically, the religiosity-delinquency link exhibits a curvilinear pattern for violent offenses and a diminishing protective effect of religiosity for property offenses. The (in)variance of the religiosity-delinquency link across socioeconomic status and gender depends on the type of offense: whereas the relationship is invariant for violent offenses, it varies for property offenses. The results remain consistent across a variety of robustness checks. Given that major criminological theories treat religiosity as protective against delinquency, the absence of a general protective effect for violent offenses and the finding that its protective effect for property offenses is limited to adolescents with low socioeconomic status and female adolescents reveal a critical blind spot that future theoretical work should address."
 
