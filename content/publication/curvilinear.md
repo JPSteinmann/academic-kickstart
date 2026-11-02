@@ -1,7 +1,7 @@
 ---
 title: "The good, the bad, and the curvilinear. Revisiting the relationship between religiosity and delinquency"
 authors: [admin, Miriam Kiene]
-date: "2026-11-03"
+date: "2026-11-02"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
