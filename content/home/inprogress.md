@@ -29,16 +29,6 @@ date_format = "Jan 2006"
   description = "This study moves beyond the average effects of religiosity on juvenile delinquency and examines whether these effects vary across sociodemographic groups. Drawing on the “complex religion” literature and social capital theory, we test contrasting hypotheses about variance and invariance for socioeconomic status and gender. Survey data (collected in 2022 and 2024) come from two representative samples of over 11,000 ninth-grade adolescents in Germany. Using logistic regression with cluster-robust standard errors, we estimated interactions and calculated predicted probabilities, average marginal effects, and second differences. Empirically, the religiosity-delinquency link exhibits a curvilinear pattern for violent offenses and a diminishing protective effect of religiosity for property offenses. The (in)variance of the religiosity-delinquency link across socioeconomic status and gender depends on the type of offense: whereas the relationship is invariant for violent offenses, it varies for property offenses. The results remain consistent across a variety of robustness checks. Given that major criminological theories treat religiosity as protective against delinquency, the absence of a general protective effect for violent offenses and the finding that its protective effect for property offenses is limited to adolescents with low socioeconomic status and female adolescents reveal a critical blind spot that future theoretical work should address."
 
 [[item]]
-  organization = "Jan-Philip Steinmann, Gert Pickel"
-  organization_url = ""
-  title = "Zur Transformation einer Konfliktlinie. Religiöse Bestimmungsfaktoren für das Wahlverhalten"
-  url = ""
-  certificate_url = ""
-  date_start = "2026-09-18"
-  date_end = ""
-  description = "Der Artikel untersucht den Wandel des religiösen cleavage und zeigt, dass Religion weiterhin das Wahlverhalten in Deutschland prägt. Nach dem Übergang von einer konfessionellen zu einer religiös-säkularen Konfliktlinie zeichnet sich eine weitere Transformation ab: Zentral ist mittlerweile die Konfliktlinie des Religionsanspruchs, die zwischen Christ:innen mit einem inklusiven und einem exklusiven Religionsanspruch verläuft. Ein exklusiver Religionsanspruch erhöht im Vergleich zu einem inklusiven die Wahrscheinlichkeit, Pfade der Radikalisierung (Wahl der AfD), der Traditionalisierung (Wahl der CDU/CSU) oder des Rückzugs (Nicht-Wahl) einzuschlagen. Diese Zusammenhänge werden unter anderem durch rechtspopulistische Positionen und wahrgenommene religiöse Benachteiligung vermittelt. Insgesamt verdeutlicht der Beitrag die elektorale Relevanz religiöser Faktoren und zeigt gleichzeitig die Veränderlichkeit des religiösen cleavage in Deutschland."
-
-[[item]]
   organization = "Yvonne Krieg, Jan-Philip Steinmann"
   organization_url = ""
   title = "Less conspiratorial in crisis? Evidence for a drop in adolescent conspiracy mentality during the COVID-19 pandemic"
