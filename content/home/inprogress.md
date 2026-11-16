@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Mona Victoria Gröneweg, Barbara Bergmann, Jan-Philip Steinmann"
+  organization_url = ""
+  title = "Religiosity, fundamentalism, and gender-role values among Christian and Muslim youth"
+  url = ""
+  certificate_url = ""
+  date_start = "2026-11-16"
+  date_end = ""
+  description = "This article examines gender-role values among Christian and Muslim adolescents with varying levels of religiosity. It asks whether religious fundamentalism, rather than religious affiliation or religiosity alone, is the key factor driving such values. We used representative school survey data from seventh graders in Germany collected in 2022 (N = 3,631). Findings show that Muslim adolescents are more likely to support patriarchal gender-role values than their Christian counterparts, although differences are moderate in size. These differences are more pronounced for traditional domestic gender roles than for attitudes toward equal educational opportunities. Religious fundamentalism mediates the relationship between religious affiliation and patriarchal gender-role values. It also accounts for a substantial share of the association between religiosity and gender-role values but only among Christians not among Muslims. For female adolescents findings indicate a partial mediation suggesting that there are other aspects of religiosity which are also relevant to their gender-role values besides fundamentalist attitudes. The findings highlight religious fundamentalism and not religiosity as the central correlate of patriarchal gender-role values and challenges stereotypes that portray Islam as inherently linked to patriarchy."
+
+[[item]]
   organization = "Jan-Philip Steinmann, Miriam Kiene"
   organization_url = ""
   title = "Variant or invariant? The role of religiosity in juvenile delinquency across socioeconomic status and gender"
@@ -47,14 +57,4 @@ date_format = "Jan 2006"
   date_start = "2026-01-05"
   date_end = ""
   description = "This study examines where and how religious boundaries are drawn and maintained by exploring the relationship between the visible display of religious markers and perceived religious discrimination among Christian and Muslim adolescents in Germany. It asks whether religious visibility heightens perceptions of religious discrimination, and how this varies by religious affiliation, gender, and education. Data come from a 2024 survey of ninth graders in Germany. Empirical findings indicate that perceptions of religious discrimination increase with greater religious visibility. However, this effect is not uniform across subgroups. The strongest—though statistically somewhat uncertain—effects are observed among female and more educated Muslims. Drawing on Christian and Muslim adolescents in Germany, results reveal that religious boundaries exist, but the main tension is not between religiosity and secularity. This underscores prior research showing that reinforcing processes sustain religious boundaries—particularly between Christianity and secularity, on the one hand, and Islam, on the other."
-
-[[item]]
-  organization = "Mona Victoria Gröneweg, Barbara Bergmann, Jan-Philip Steinmann"
-  organization_url = ""
-  title = "Religiosity, fundamentalism, and gender-role values among Christian and Muslim youth"
-  url = ""
-  certificate_url = ""
-  date_start = "2025-12-15"
-  date_end = ""
-  description = "This article examines gender-role values among Christian and Muslim adolescents with varying levels of religiosity. It asks whether religious fundamentalism, rather than religious affiliation or religiosity alone, is the key factor driving such values. School survey data from seventh graders in Germany (N = 3,712) show that Muslim adolescents are more likely to support patriarchal gender-role values than their Christian counterparts, although differences are moderate in size. Religious fundamentalism mediates the relationship between religious affiliation and patriarchal gender-role values, and accounts for a substantial share of the association between religiosity and gender-role values among Christians. Overall, the findings highlight religious fundamentalism as the central correlate of patriarchal gender-role values and challenges stereotypes that portray Islam as inherently linked to patriarchy."
 +++
